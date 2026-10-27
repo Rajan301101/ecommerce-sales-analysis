@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Category,Product,Quantity,Sales,Discount,Profit,Payment_Mode
+ORD0001,2025-11-24,C1190,Rahul,Trichy,Electronics,Laptop,2,88288.0,0,14570.96,Net Banking
+ORD0002,2025-02-14,C1008,Priya,Trichy,Home Appliances,Mixer Grinder,2,10622.4,20,260.37,Credit Card
+ORD0003,2025-11-29,C1115,Keerthi,Salem,Home Appliances,Electric Kettle,1,1405.05,15,119.91,Credit Card
+ORD0004,2025-04-21,C1024,Suresh,Coimbatore,Clothing,T-Shirt,3,2889.6,20,187.73,UPI
+ORD0005,2025-08-24,C1021,Vijay,Salem,Electronics,Keyboard,5,14248.0,20,750.71,UPI
+ORD0006,2025-01-24,C1021,Harini,Trichy,Furniture,Bookshelf,1,8304.3,10,930.74,Debit Card
+ORD0007,2025-03-25,C1054,Naveen,Salem,Clothing,Shirt,1,1944.65,5,259.23,Credit Card
+ORD0008,2025-03-25,C1070,Naveen,Trichy,Home Appliances,Air Cooler,3,58764.0,0,5226.36,UPI
+ORD0009,2025-06-11,C1017,Divya,Erode,Home Appliances,Microwave,2,30154.6,15,2857.37,Cash on Delivery
+ORD0010,2025-03-15,C1064,Swetha,Salem,Clothing,Jeans,5,11016.0,20,968.29,Credit Card
+ORD0011,2025-03-12,C1194,Arun,Coimbatore,Home Appliances,Mixer Grinder,2,6477.0,15,834.82,Cash on Delivery
+ORD0012,2025-07-15,C1065,Vijay,Chennai,Home Appliances,Vacuum Cleaner,1,12417.3,10,2057.07,Debit Card
+ORD0013,2025-02-27,C1041,Anitha,Chennai,Clothing,Jacket,3,16815.0,5,2165.87,UPI
+ORD0014,2025-11-17,C1156,Divya,Madurai,Clothing,Sneakers,3,6775.2,20,1233.73,Net Banking
+ORD0015,2025-01-01,C1005,Priya,Erode,Clothing,Jacket,3,11283.0,0,1026.17,Net Banking
+ORD0016,2025-02-10,C1018,Manoj,Madurai,Electronics,Keyboard,2,7188.8,20,345.58,Net Banking
+ORD0017,2025-11-07,C1139,Manoj,Trichy,Home Appliances,Electric Kettle,3,7111.8,10,778.58,Net Banking
+ORD0018,2025-08-20,C1058,Priya,Erode,Electronics,Smartphone,1,40444.0,20,2391.03,Credit Card
+ORD0019,2025-01-04,C1059,Priya,Chennai,Electronics,Laptop,3,95143.2,20,5752.43,Cash on Delivery
+ORD0020,2025-04-20,C1148,Anitha,Trichy,Furniture,Sofa,4,169772.6,5,9937.7,Cash on Delivery
+ORD0021,2025-07-01,C1120,Harini,Chennai,Home Appliances,Air Cooler,1,6794.05,15,1027.91,UPI
+ORD0022,2025-05-08,C1138,Anitha,Madurai,Furniture,Desk,4,25221.6,10,2866.35,UPI
+ORD0023,2025-08-15,C1167,Vijay,Chennai,Electronics,Laptop,1,80165.75,5,5673.56,Cash on Delivery
+ORD0024,2025-09-04,C1016,Karthik,Tirunelveli,Furniture,Table Lamp,1,1889.1,10,363.67,Cash on Delivery
+ORD0025,2025-05-27,C1170,Swetha,Bangalore,Home Appliances,Vacuum Cleaner,2,14599.8,10,1051.32,UPI
+ORD0026,2025-10-24,C1015,Arun,Bangalore,Electronics,Headphones,5,31140.0,20,1456.22,Net Banking
+ORD0027,2025-02-11,C1153,Priya,Trichy,Furniture,Office Chair,4,22284.8,20,1378.46,Net Banking
+ORD0028,2025-01-21,C1169,Keerthi,Erode,Electronics,Keyboard,3,6137.1,10,463.82,Cash on Delivery
+ORD0029,2025-03-09,C1081,Manoj,Coimbatore,Clothing,Jacket,1,4443.2,20,843.04,UPI
+ORD0030,2025-02-07,C1068,Karthik,Erode,Furniture,Sofa,1,30608.1,10,2554.18,Cash on Delivery
+ORD0031,2025-10-06,C1168,Vijay,Chennai,Clothing,Sneakers,5,19760.0,0,4142.05,Credit Card
+ORD0032,2025-05-16,C1191,Vijay,Madurai,Electronics,Laptop,3,128316.0,20,7160.94,Debit Card
+ORD0033,2025-04-15,C1126,Rahul,Chennai,Clothing,Sneakers,1,5691.6,15,958.97,UPI
+ORD0034,2025-01-02,C1164,Rahul,Madurai,Clothing,Jeans,4,11080.6,15,1361.3,UPI
+ORD0035,2025-02-08,C1010,Harini,Erode,Furniture,Sofa,5,257497.5,5,29757.37,UPI
+ORD0036,2025-06-07,C1092,Divya,Trichy,Clothing,T-Shirt,1,979.2,20,166.76,Cash on Delivery
+ORD0037,2025-11-14,C1042,Manoj,Madurai,Furniture,Desk,4,16742.8,5,2808.03,Debit Card
+ORD0038,2025-07-30,C1041,Manoj,Coimbatore,Furniture,Bookshelf,4,12355.6,15,806.99,Cash on Delivery
+ORD0039,2025-06-29,C1058,Arun,Trichy,Clothing,Jeans,4,8438.4,10,1535.28,Debit Card
+ORD0040,2025-06-29,C1085,Arun,Coimbatore,Home Appliances,Vacuum Cleaner,3,19020.0,20,3492.66,Debit Card
+ORD0041,2025-01-20,C1112,Meena,Erode,Electronics,Monitor,4,85964.8,20,3409.35,Net Banking
+ORD0042,2025-04-08,C1182,Suresh,Chennai,Clothing,T-Shirt,5,7609.5,5,794.57,UPI
+ORD0043,2025-12-07,C1081,Naveen,Coimbatore,Clothing,Sneakers,3,15265.8,10,2265.01,Debit Card
+ORD0044,2025-07-26,C1033,Divya,Tirunelveli,Clothing,Sneakers,4,9360.0,20,1092.76,Cash on Delivery
+ORD0045,2025-10-08,C1074,Divya,Tirunelveli,Electronics,Headphones,5,25960.5,10,2960.74,Cash on Delivery
+ORD0046,2025-12-12,C1122,Manoj,Madurai,Furniture,Sofa,1,29278.4,20,3889.79,Net Banking
+ORD0047,2025-06-21,C1173,Rahul,Trichy,Electronics,Smartphone,2,43312.0,0,2505.87,Cash on Delivery
+ORD0048,2025-11-09,C1107,Naveen,Trichy,Electronics,Keyboard,4,15806.6,15,1090.3,UPI
+ORD0049,2025-02-24,C1046,Manoj,Bangalore,Home Appliances,Electric Kettle,1,3118.85,5,619.0,UPI
+ORD0050,2025-08-22,C1171,Vijay,Erode,Furniture,Table Lamp,4,8727.8,15,1472.35,Net Banking
+ORD0051,2025-08-17,C1116,Rahul,Trichy,Furniture,Table Lamp,3,6719.25,15,900.7,Debit Card
+ORD0052,2025-08-14,C1061,Rahul,Erode,Electronics,Headphones,3,15672.0,0,1152.26,Credit Card
+ORD0053,2025-07-16,C1017,Suresh,Tirunelveli,Furniture,Desk,3,32869.5,15,3227.18,Credit Card
+ORD0054,2025-08-04,C1179,Arun,Tirunelveli,Home Appliances,Vacuum Cleaner,4,18345.6,10,1573.39,Cash on Delivery
+ORD0055,2025-08-03,C1057,Rahul,Tirunelveli,Furniture,Table Lamp,4,2101.2,15,177.85,Cash on Delivery
+ORD0056,2025-03-26,C1160,Vijay,Chennai,Home Appliances,Electric Kettle,4,10956.8,20,1454.08,UPI
+ORD0057,2025-11-26,C1119,Karthik,Chennai,Home Appliances,Electric Kettle,3,6890.4,10,489.1,Debit Card
+ORD0058,2025-06-22,C1193,Harini,Tirunelveli,Home Appliances,Microwave,3,21269.55,15,655.0,Net Banking
+ORD0059,2025-01-27,C1167,Priya,Chennai,Clothing,Jeans,1,1911.4,5,353.93,Net Banking
+ORD0060,2025-03-20,C1122,Naveen,Coimbatore,Furniture,Desk,5,92758.0,5,11275.27,Debit Card
+ORD0061,2025-07-08,C1156,Swetha,Coimbatore,Furniture,Sofa,2,76768.0,0,11390.56,Debit Card
+ORD0062,2025-10-22,C1184,Divya,Coimbatore,Home Appliances,Air Cooler,5,86996.25,5,5204.4,Debit Card
+ORD0063,2025-12-17,C1011,Meena,Tirunelveli,Electronics,Monitor,3,22221.6,20,2890.64,UPI
+ORD0064,2025-08-04,C1111,Meena,Bangalore,Home Appliances,Mixer Grinder,2,11527.3,5,1927.89,Debit Card
+ORD0065,2025-11-12,C1112,Harini,Salem,Home Appliances,Air Cooler,3,33066.0,0,3221.22,Cash on Delivery
+ORD0066,2025-05-05,C1157,Naveen,Tirunelveli,Home Appliances,Vacuum Cleaner,3,13948.5,15,2401.4,Credit Card
+ORD0067,2025-09-07,C1067,Meena,Salem,Furniture,Bookshelf,5,30104.0,20,654.03,Credit Card
+ORD0068,2025-02-13,C1126,Vijay,Trichy,Furniture,Table Lamp,4,8534.0,15,1385.06,UPI
+ORD0069,2025-05-31,C1178,Divya,Salem,Furniture,Table Lamp,5,8546.75,15,1039.2,Debit Card
+ORD0070,2025-08-06,C1180,Anitha,Salem,Clothing,Shirt,3,3744.9,5,235.97,Credit Card
+ORD0071,2025-06-11,C1196,Swetha,Madurai,Electronics,Monitor,2,23953.0,15,1784.62,Net Banking
+ORD0072,2025-09-26,C1050,Rahul,Trichy,Clothing,T-Shirt,3,2340.9,10,87.56,Net Banking
+ORD0073,2025-03-06,C1014,Vijay,Salem,Clothing,T-Shirt,2,3010.0,0,597.07,Net Banking
+ORD0074,2025-05-26,C1113,Meena,Madurai,Home Appliances,Air Cooler,1,9465.6,15,443.89,UPI
+ORD0075,2025-07-25,C1148,Naveen,Chennai,Home Appliances,Mixer Grinder,2,5955.2,20,1079.98,UPI
+ORD0076,2025-05-08,C1196,Suresh,Trichy,Electronics,Monitor,5,82722.0,15,15050.92,Debit Card
+ORD0077,2025-10-29,C1146,Keerthi,Chennai,Home Appliances,Microwave,5,40968.75,5,6097.69,Debit Card
+ORD0078,2025-12-05,C1062,Karthik,Coimbatore,Electronics,Smartphone,2,20697.5,15,2154.31,Net Banking
+ORD0079,2025-08-29,C1060,Rahul,Salem,Clothing,T-Shirt,4,2451.0,5,489.13,Net Banking
+ORD0080,2025-12-05,C1030,Vijay,Trichy,Furniture,Table Lamp,2,3017.2,5,164.86,Credit Card
+ORD0081,2025-06-07,C1032,Anitha,Salem,Clothing,Jacket,4,12896.0,20,1441.73,Cash on Delivery
+ORD0082,2025-02-11,C1189,Meena,Salem,Electronics,Keyboard,1,1280.6,5,263.84,Net Banking
+ORD0083,2025-10-28,C1148,Arun,Madurai,Electronics,Headphones,4,17173.4,15,3146.72,Credit Card
+ORD0084,2025-10-27,C1024,Anitha,Erode,Home Appliances,Air Cooler,4,44856.0,10,6680.08,Credit Card
+ORD0085,2025-06-18,C1074,Naveen,Tirunelveli,Home Appliances,Air Cooler,5,32304.25,15,1371.97,Debit Card
+ORD0086,2025-06-15,C1132,Harini,Chennai,Electronics,Keyboard,5,18632.0,15,684.07,Net Banking
+ORD0087,2025-07-05,C1195,Arun,Trichy,Home Appliances,Air Cooler,3,45594.3,5,9128.18,Cash on Delivery
+ORD0088,2025-12-24,C1008,Naveen,Trichy,Home Appliances,Mixer Grinder,2,8072.0,20,180.2,Cash on Delivery
+ORD0089,2025-02-17,C1119,Priya,Madurai,Furniture,Office Chair,4,60264.0,10,7322.57,Debit Card
+ORD0090,2025-08-01,C1063,Anitha,Madurai,Home Appliances,Air Cooler,4,32390.4,20,3446.37,Credit Card
+ORD0091,2025-02-05,C1088,Manoj,Salem,Clothing,Jacket,1,3705.3,10,657.21,Net Banking
+ORD0092,2025-12-04,C1115,Vijay,Bangalore,Home Appliances,Electric Kettle,3,5666.4,20,848.19,Cash on Delivery
+ORD0093,2025-08-22,C1179,Divya,Tirunelveli,Clothing,Jeans,2,5364.0,0,558.34,Cash on Delivery
+ORD0094,2025-12-28,C1170,Manoj,Madurai,Home Appliances,Air Cooler,4,28902.8,5,3696.36,Net Banking
+ORD0095,2025-06-19,C1026,Vijay,Bangalore,Electronics,Keyboard,1,1513.0,15,265.62,Credit Card
+ORD0096,2025-02-08,C1087,Keerthi,Tirunelveli,Home Appliances,Microwave,1,9906.4,20,838.1,Debit Card
+ORD0097,2025-11-17,C1010,Keerthi,Coimbatore,Home Appliances,Vacuum Cleaner,2,18445.2,5,3125.54,Cash on Delivery
+ORD0098,2025-02-20,C1043,Swetha,Salem,Electronics,Keyboard,1,878.4,10,149.63,Debit Card
+ORD0099,2025-07-03,C1038,Divya,Tirunelveli,Clothing,Jacket,5,15556.25,5,1124.12,Net Banking
+ORD0100,2025-07-15,C1150,Karthik,Trichy,Furniture,Table Lamp,4,5236.0,15,371.26,UPI
+ORD0101,2025-08-27,C1041,Priya,Bangalore,Clothing,Sneakers,3,17045.1,10,2448.01,Cash on Delivery
+ORD0102,2025-12-20,C1078,Divya,Tirunelveli,Clothing,Jacket,4,10157.4,5,1090.21,Debit Card
+ORD0103,2025-10-22,C1006,Harini,Tirunelveli,Clothing,Shirt,3,1958.4,20,327.17,UPI
+ORD0104,2025-11-07,C1199,Manoj,Trichy,Home Appliances,Microwave,5,60667.0,5,9144.04,Net Banking
+ORD0105,2025-05-09,C1161,Naveen,Chennai,Furniture,Office Chair,3,45696.0,15,1515.83,Debit Card
+ORD0106,2025-03-09,C1084,Swetha,Tirunelveli,Electronics,Headphones,2,4643.6,5,818.24,Debit Card
+ORD0107,2025-09-29,C1066,Harini,Bangalore,Clothing,Jeans,3,7161.0,0,928.18,UPI
+ORD0108,2025-03-14,C1143,Meena,Coimbatore,Furniture,Table Lamp,4,2005.2,10,253.09,Cash on Delivery
+ORD0109,2025-07-08,C1098,Harini,Erode,Clothing,Sneakers,1,2902.75,15,92.17,Net Banking
+ORD0110,2025-06-17,C1163,Harini,Bangalore,Furniture,Office Chair,3,39874.35,15,1887.45,UPI
+ORD0111,2025-01-20,C1030,Priya,Trichy,Clothing,Jacket,5,12371.75,15,1294.33,Net Banking
+ORD0112,2025-08-03,C1168,Priya,Bangalore,Furniture,Table Lamp,5,9769.5,10,396.27,Debit Card
+ORD0113,2025-04-22,C1061,Harini,Erode,Home Appliances,Air Cooler,1,16410.6,10,2093.32,Debit Card
+ORD0114,2025-02-01,C1049,Priya,Bangalore,Home Appliances,Microwave,1,16965.1,5,2571.74,Net Banking
+ORD0115,2025-01-11,C1063,Karthik,Trichy,Electronics,Headphones,1,6077.6,20,335.59,Credit Card
+ORD0116,2025-04-30,C1153,Arun,Salem,Clothing,Jeans,2,2451.2,20,153.47,Credit Card
+ORD0117,2025-02-26,C1004,Meena,Trichy,Electronics,Smartphone,5,166090.0,0,13224.39,UPI
+ORD0118,2025-03-06,C1030,Swetha,Coimbatore,Home Appliances,Vacuum Cleaner,4,44438.4,10,5432.61,UPI
+ORD0119,2025-08-20,C1012,Swetha,Salem,Furniture,Sofa,4,80164.0,0,17616.82,Cash on Delivery
+ORD0120,2025-08-07,C1183,Anitha,Coimbatore,Electronics,Keyboard,1,2590.4,20,117.13,Credit Card
+ORD0121,2025-05-21,C1153,Vijay,Salem,Clothing,Jacket,4,19011.2,20,1770.59,UPI
+ORD0122,2025-12-02,C1116,Divya,Tirunelveli,Furniture,Table Lamp,3,6010.35,15,590.33,UPI
+ORD0123,2025-06-10,C1171,Rahul,Erode,Home Appliances,Microwave,2,29540.0,0,1935.11,UPI
+ORD0124,2025-02-17,C1191,Swetha,Erode,Home Appliances,Mixer Grinder,2,4785.6,20,873.98,Net Banking
+ORD0125,2025-06-18,C1091,Harini,Tirunelveli,Electronics,Keyboard,1,2364.8,20,172.91,UPI
+ORD0126,2025-10-23,C1169,Anitha,Trichy,Furniture,Desk,1,7788.8,20,642.46,Debit Card
+ORD0127,2025-10-21,C1144,Manoj,Chennai,Furniture,Table Lamp,5,7975.0,0,643.35,Debit Card
+ORD0128,2025-06-23,C1047,Harini,Madurai,Clothing,T-Shirt,5,6600.0,0,489.18,UPI
+ORD0129,2025-02-16,C1108,Anitha,Erode,Furniture,Table Lamp,2,3627.0,10,571.87,Net Banking
+ORD0130,2025-11-02,C1040,Karthik,Chennai,Electronics,Laptop,1,44907.2,15,6288.34,Cash on Delivery
+ORD0131,2025-11-07,C1070,Divya,Coimbatore,Home Appliances,Air Cooler,3,42129.0,0,4135.04,Net Banking
+ORD0132,2025-09-07,C1057,Suresh,Chennai,Clothing,T-Shirt,1,826.2,10,161.69,Credit Card
+ORD0133,2025-05-11,C1031,Arun,Bangalore,Clothing,Shirt,4,4404.2,5,471.85,Credit Card
+ORD0134,2025-09-14,C1102,Harini,Chennai,Clothing,T-Shirt,4,1829.2,15,336.75,Debit Card
+ORD0135,2025-10-22,C1104,Swetha,Tirunelveli,Home Appliances,Vacuum Cleaner,3,17561.85,15,545.22,Debit Card
+ORD0136,2025-03-29,C1023,Suresh,Coimbatore,Home Appliances,Microwave,2,22620.8,20,1992.36,UPI
+ORD0137,2025-07-22,C1057,Meena,Madurai,Clothing,Shirt,1,1845.0,0,258.67,Credit Card
+ORD0138,2025-06-28,C1061,Priya,Madurai,Clothing,Jeans,3,5152.8,5,746.68,UPI
+ORD0139,2025-04-01,C1194,Keerthi,Bangalore,Home Appliances,Air Cooler,5,70136.0,20,5256.37,Debit Card
+ORD0140,2025-03-19,C1121,Anitha,Salem,Home Appliances,Mixer Grinder,3,7992.0,10,969.01,Debit Card
+ORD0141,2025-08-25,C1015,Meena,Salem,Home Appliances,Mixer Grinder,1,2591.2,20,313.52,Cash on Delivery
+ORD0142,2025-08-25,C1147,Naveen,Trichy,Electronics,Keyboard,3,10790.4,20,492.54,UPI
+ORD0143,2025-08-19,C1183,Priya,Madurai,Electronics,Headphones,1,2404.65,15,471.23,Net Banking
+ORD0144,2025-09-25,C1096,Rahul,Tirunelveli,Furniture,Bookshelf,4,27337.6,20,790.12,Debit Card
+ORD0145,2025-02-03,C1143,Naveen,Tirunelveli,Clothing,T-Shirt,3,2438.4,20,410.77,Debit Card
+ORD0146,2025-02-11,C1080,Naveen,Tirunelveli,Furniture,Bookshelf,2,7898.4,10,1026.92,Debit Card
+ORD0147,2025-03-07,C1131,Meena,Chennai,Electronics,Keyboard,3,8920.5,5,1821.56,Debit Card
+ORD0148,2025-09-06,C1036,Karthik,Coimbatore,Furniture,Desk,3,53505.0,0,7293.12,Net Banking
+ORD0149,2025-09-27,C1197,Keerthi,Madurai,Electronics,Headphones,5,18458.5,5,1293.61,Net Banking
+ORD0150,2025-03-26,C1106,Meena,Trichy,Home Appliances,Mixer Grinder,4,16435.6,15,1105.8,Credit Card
+ORD0151,2025-06-08,C1095,Naveen,Bangalore,Home Appliances,Electric Kettle,4,7323.6,15,827.52,Cash on Delivery
+ORD0152,2025-03-24,C1036,Harini,Salem,Furniture,Sofa,1,44545.5,10,5758.48,UPI
+ORD0153,2025-12-31,C1022,Manoj,Madurai,Electronics,Headphones,3,10752.0,20,484.37,Cash on Delivery
+ORD0154,2025-02-16,C1090,Arun,Tirunelveli,Furniture,Table Lamp,1,1698.4,20,141.94,Cash on Delivery
+ORD0155,2025-02-11,C1008,Meena,Coimbatore,Clothing,Jeans,3,4554.3,5,223.21,Cash on Delivery
+ORD0156,2025-12-23,C1115,Keerthi,Chennai,Furniture,Table Lamp,1,519.3,10,37.21,Credit Card
+ORD0157,2025-10-08,C1199,Rahul,Trichy,Home Appliances,Mixer Grinder,3,10494.0,0,950.07,Net Banking
+ORD0158,2025-08-23,C1128,Keerthi,Chennai,Electronics,Laptop,5,345258.5,5,56847.69,Debit Card
+ORD0159,2025-08-08,C1091,Divya,Tirunelveli,Electronics,Monitor,2,57540.0,0,7997.62,Debit Card
+ORD0160,2025-02-04,C1121,Arun,Tirunelveli,Electronics,Keyboard,3,8031.0,0,889.08,UPI
+ORD0161,2025-06-26,C1198,Keerthi,Erode,Furniture,Office Chair,2,10306.8,10,1317.44,Credit Card
+ORD0162,2025-12-17,C1162,Karthik,Madurai,Home Appliances,Air Cooler,1,15921.35,15,537.94,Credit Card
+ORD0163,2025-01-23,C1081,Rahul,Tirunelveli,Furniture,Office Chair,5,57402.0,10,2366.43,Credit Card
+ORD0164,2025-05-27,C1168,Meena,Salem,Clothing,T-Shirt,1,1065.05,15,190.34,Cash on Delivery
+ORD0165,2025-07-17,C1128,Swetha,Bangalore,Clothing,Jeans,3,8440.2,10,1444.92,Cash on Delivery
+ORD0166,2025-02-10,C1047,Vijay,Salem,Home Appliances,Vacuum Cleaner,3,20040.0,0,2119.16,Debit Card
+ORD0167,2025-06-06,C1184,Suresh,Madurai,Home Appliances,Vacuum Cleaner,4,36580.6,15,1269.36,Debit Card
+ORD0168,2025-11-11,C1164,Manoj,Chennai,Home Appliances,Microwave,1,15296.6,15,1365.42,Credit Card
+ORD0169,2025-01-16,C1174,Manoj,Bangalore,Furniture,Sofa,1,26272.0,0,2367.61,Debit Card
+ORD0170,2025-07-05,C1009,Keerthi,Madurai,Home Appliances,Vacuum Cleaner,4,39877.2,10,4405.22,UPI
+ORD0171,2025-10-21,C1094,Suresh,Erode,Furniture,Sofa,3,103074.0,0,5607.77,Credit Card
+ORD0172,2025-09-13,C1031,Rahul,Salem,Home Appliances,Vacuum Cleaner,4,27248.0,20,1867.8,Cash on Delivery
+ORD0173,2025-04-13,C1019,Anitha,Madurai,Electronics,Smartphone,4,63910.8,10,9492.85,UPI
+ORD0174,2025-10-09,C1041,Swetha,Madurai,Clothing,Shirt,3,5246.85,5,331.24,Credit Card
+ORD0175,2025-03-13,C1007,Meena,Erode,Furniture,Table Lamp,4,10484.2,5,1536.26,UPI
+ORD0176,2025-02-03,C1184,Swetha,Bangalore,Clothing,Jacket,5,21951.25,15,3676.13,UPI
+ORD0177,2025-03-06,C1116,Anitha,Erode,Clothing,T-Shirt,2,2606.4,20,132.75,Credit Card
+ORD0178,2025-08-10,C1133,Karthik,Salem,Electronics,Laptop,2,82105.2,10,15920.64,Credit Card
+ORD0179,2025-06-27,C1065,Divya,Salem,Clothing,T-Shirt,2,3204.0,10,446.81,UPI
+ORD0180,2025-09-15,C1149,Karthik,Madurai,Furniture,Sofa,5,259461.0,10,46243.76,Net Banking
+ORD0181,2025-01-22,C1012,Naveen,Salem,Electronics,Laptop,2,136420.8,20,12389.7,UPI
+ORD0182,2025-09-12,C1124,Divya,Tirunelveli,Clothing,Shirt,3,5184.0,0,866.06,Credit Card
+ORD0183,2025-08-14,C1119,Divya,Erode,Home Appliances,Air Cooler,5,42088.5,10,7637.06,Debit Card
+ORD0184,2025-06-26,C1195,Meena,Coimbatore,Home Appliances,Electric Kettle,3,5074.5,15,245.24,Cash on Delivery
+ORD0185,2025-05-07,C1013,Rahul,Tirunelveli,Furniture,Office Chair,5,56287.5,5,11604.04,Credit Card
+ORD0186,2025-06-17,C1196,Karthik,Bangalore,Clothing,Jeans,5,12376.0,15,2189.84,Cash on Delivery
+ORD0187,2025-01-12,C1130,Anitha,Trichy,Electronics,Keyboard,2,6980.0,0,408.97,Cash on Delivery
+ORD0188,2025-11-02,C1138,Arun,Coimbatore,Home Appliances,Microwave,4,33098.4,10,5251.93,Cash on Delivery
+ORD0189,2025-07-07,C1014,Keerthi,Trichy,Electronics,Keyboard,3,8892.0,0,1028.62,Cash on Delivery
+ORD0190,2025-10-09,C1175,Keerthi,Coimbatore,Clothing,Sneakers,2,3896.4,15,354.35,Debit Card
+ORD0191,2025-10-13,C1051,Keerthi,Tirunelveli,Clothing,Jeans,5,5820.0,0,329.5,Debit Card
+ORD0192,2025-08-31,C1156,Vijay,Madurai,Home Appliances,Electric Kettle,3,6566.4,5,717.72,Net Banking
+ORD0193,2025-06-03,C1131,Vijay,Bangalore,Clothing,Sneakers,5,16808.75,15,2793.23,Debit Card
+ORD0194,2025-06-19,C1150,Rahul,Chennai,Electronics,Keyboard,5,20191.5,10,4026.23,Net Banking
+ORD0195,2025-10-23,C1150,Anitha,Madurai,Furniture,Office Chair,5,61220.0,20,9286.04,Cash on Delivery
+ORD0196,2025-03-17,C1147,Swetha,Coimbatore,Furniture,Office Chair,2,9027.0,15,729.63,Credit Card
+ORD0197,2025-07-31,C1129,Manoj,Bangalore,Furniture,Table Lamp,1,852.0,20,47.07,Debit Card
+ORD0198,2025-12-06,C1097,Meena,Madurai,Home Appliances,Vacuum Cleaner,4,49442.4,10,6322.02,Debit Card
+ORD0199,2025-11-09,C1064,Rahul,Salem,Home Appliances,Electric Kettle,2,3994.2,10,618.43,Cash on Delivery
+ORD0200,2025-06-12,C1144,Manoj,Salem,Home Appliances,Microwave,3,21590.4,20,2915.26,Cash on Delivery
+ORD0201,2025-07-22,C1075,Arun,Salem,Clothing,Jeans,1,2055.3,15,285.72,Cash on Delivery
+ORD0202,2025-04-20,C1070,Vijay,Salem,Furniture,Sofa,2,40252.8,20,5874.96,Credit Card
+ORD0203,2025-05-05,C1058,Naveen,Trichy,Electronics,Monitor,1,8740.55,15,731.15,Cash on Delivery
+ORD0204,2025-02-21,C1141,Karthik,Tirunelveli,Furniture,Office Chair,4,48723.6,5,8331.97,Debit Card
+ORD0205,2025-06-14,C1197,Priya,Trichy,Clothing,T-Shirt,5,2736.0,5,310.65,Credit Card
+ORD0206,2025-01-19,C1048,Swetha,Salem,Home Appliances,Air Cooler,1,6435.9,10,846.67,UPI
+ORD0207,2025-06-21,C1165,Vijay,Bangalore,Clothing,Jacket,2,10081.0,15,744.81,UPI
+ORD0208,2025-06-19,C1166,Rahul,Madurai,Furniture,Table Lamp,1,1692.0,10,222.54,Credit Card
+ORD0209,2025-03-31,C1132,Meena,Coimbatore,Home Appliances,Air Cooler,4,71860.0,0,5850.32,Credit Card
+ORD0210,2025-09-02,C1002,Rahul,Tirunelveli,Clothing,Jeans,2,5092.2,10,1004.11,Debit Card
+ORD0211,2025-10-26,C1168,Meena,Trichy,Electronics,Headphones,1,6270.0,0,809.56,Credit Card
+ORD0212,2025-07-27,C1164,Rahul,Erode,Clothing,T-Shirt,5,4522.0,5,928.15,Cash on Delivery
+ORD0213,2025-03-20,C1096,Suresh,Bangalore,Home Appliances,Vacuum Cleaner,5,40745.5,5,6444.23,Net Banking
+ORD0214,2025-02-11,C1181,Meena,Coimbatore,Home Appliances,Vacuum Cleaner,5,34190.0,0,6526.58,Net Banking
+ORD0215,2025-04-14,C1084,Harini,Bangalore,Furniture,Desk,1,14387.75,5,2365.0,Cash on Delivery
+ORD0216,2025-02-16,C1117,Karthik,Tirunelveli,Home Appliances,Mixer Grinder,4,9510.4,20,937.77,Debit Card
+ORD0217,2025-01-12,C1001,Swetha,Trichy,Home Appliances,Microwave,5,40980.0,0,5000.73,UPI
+ORD0218,2025-10-05,C1121,Arun,Salem,Electronics,Laptop,4,177821.0,5,30708.03,Cash on Delivery
+ORD0219,2025-07-11,C1097,Suresh,Coimbatore,Home Appliances,Air Cooler,5,41301.0,10,2278.48,Net Banking
+ORD0220,2025-07-21,C1001,Manoj,Chennai,Furniture,Desk,3,27804.0,20,2560.8,Cash on Delivery
+ORD0221,2025-04-28,C1089,Karthik,Salem,Furniture,Table Lamp,2,1924.0,0,360.96,Cash on Delivery
+ORD0222,2025-11-11,C1053,Priya,Coimbatore,Electronics,Smartphone,5,60350.0,15,7792.6,UPI
+ORD0223,2025-05-06,C1113,Divya,Trichy,Electronics,Keyboard,1,1397.6,20,264.0,Credit Card
+ORD0224,2025-10-22,C1154,Manoj,Erode,Clothing,Sneakers,2,7546.8,5,1585.34,Net Banking
+ORD0225,2025-04-24,C1071,Arun,Madurai,Home Appliances,Microwave,4,54763.8,15,1942.49,Debit Card
+ORD0226,2025-11-26,C1082,Swetha,Tirunelveli,Home Appliances,Vacuum Cleaner,4,26798.4,10,2652.99,Net Banking
+ORD0227,2025-08-31,C1077,Harini,Madurai,Furniture,Desk,4,75948.0,0,11058.45,Cash on Delivery
+ORD0228,2025-10-13,C1063,Rahul,Trichy,Furniture,Table Lamp,3,2098.65,15,359.95,UPI
+ORD0229,2025-10-02,C1069,Suresh,Chennai,Furniture,Office Chair,1,6465.6,20,925.43,Net Banking
+ORD0230,2025-04-22,C1086,Rahul,Chennai,Home Appliances,Electric Kettle,2,3556.0,0,629.3,Cash on Delivery
+ORD0231,2025-05-05,C1062,Vijay,Erode,Furniture,Table Lamp,3,5250.45,15,620.71,Debit Card
+ORD0232,2025-06-07,C1132,Anitha,Bangalore,Clothing,Shirt,1,2077.4,15,326.1,Debit Card
+ORD0233,2025-04-15,C1106,Arun,Trichy,Clothing,Shirt,2,1499.4,10,193.52,Net Banking
+ORD0234,2025-10-24,C1040,Divya,Erode,Home Appliances,Microwave,2,21156.8,20,3420.46,Cash on Delivery
+ORD0235,2025-10-09,C1196,Harini,Bangalore,Clothing,Shirt,4,6623.4,5,1106.58,Debit Card
+ORD0236,2025-03-28,C1126,Karthik,Chennai,Furniture,Sofa,5,101080.0,0,21295.73,UPI
+ORD0237,2025-01-04,C1162,Divya,Coimbatore,Home Appliances,Electric Kettle,2,1970.3,5,253.13,Debit Card
+ORD0238,2025-01-31,C1005,Arun,Tirunelveli,Home Appliances,Air Cooler,1,5819.2,20,830.82,Net Banking
+ORD0239,2025-05-27,C1179,Naveen,Tirunelveli,Electronics,Monitor,2,21012.0,0,2923.73,Credit Card
+ORD0240,2025-04-09,C1069,Manoj,Tirunelveli,Clothing,Shirt,1,1329.4,15,140.29,Credit Card
+ORD0241,2025-12-23,C1176,Harini,Coimbatore,Furniture,Bookshelf,1,3851.35,15,354.23,Net Banking
+ORD0242,2025-09-01,C1180,Karthik,Coimbatore,Electronics,Laptop,4,228369.6,10,29961.09,UPI
+ORD0243,2025-09-28,C1055,Harini,Bangalore,Electronics,Smartphone,3,45153.0,0,7511.33,Debit Card
+ORD0244,2025-10-06,C1081,Arun,Trichy,Electronics,Smartphone,5,91158.25,15,16901.54,Debit Card
+ORD0245,2025-03-25,C1100,Naveen,Erode,Furniture,Sofa,4,108684.0,0,14686.99,Debit Card
+ORD0246,2025-01-28,C1060,Harini,Coimbatore,Electronics,Keyboard,3,10392.3,10,416.07,Debit Card
+ORD0247,2025-08-19,C1092,Vijay,Tirunelveli,Home Appliances,Electric Kettle,4,5632.0,20,745.19,UPI
+ORD0248,2025-11-13,C1183,Priya,Coimbatore,Clothing,Jeans,3,4159.05,15,617.56,Credit Card
+ORD0249,2025-07-19,C1028,Priya,Chennai,Clothing,Shirt,3,4617.0,10,759.17,UPI
+ORD0250,2025-03-09,C1111,Anitha,Tirunelveli,Electronics,Smartphone,1,13721.0,0,1511.58,UPI
+ORD0251,2025-11-02,C1004,Rahul,Tirunelveli,Clothing,Jacket,4,7977.6,20,1387.19,Credit Card
+ORD0252,2025-10-20,C1044,Karthik,Salem,Furniture,Table Lamp,3,4077.45,15,213.29,Credit Card
+ORD0253,2025-08-11,C1077,Anitha,Coimbatore,Clothing,Jacket,3,11003.85,5,1816.22,Cash on Delivery
+ORD0254,2025-11-01,C1028,Karthik,Salem,Furniture,Table Lamp,1,1908.0,10,339.77,Cash on Delivery
+ORD0255,2025-06-18,C1111,Harini,Madurai,Home Appliances,Microwave,3,29407.2,20,5323.8,Credit Card
+ORD0256,2025-09-03,C1102,Meena,Salem,Clothing,Jeans,4,12760.4,5,1249.25,Debit Card
+ORD0257,2025-07-21,C1145,Divya,Madurai,Clothing,T-Shirt,5,2358.75,15,442.99,Credit Card
+ORD0258,2025-08-13,C1105,Naveen,Bangalore,Clothing,T-Shirt,2,3234.6,10,246.29,Credit Card
+ORD0259,2025-08-05,C1115,Keerthi,Bangalore,Home Appliances,Mixer Grinder,5,23132.0,20,2454.86,Cash on Delivery
+ORD0260,2025-10-06,C1180,Manoj,Coimbatore,Electronics,Headphones,1,6744.05,5,1040.55,Debit Card
+ORD0261,2025-03-27,C1166,Naveen,Tirunelveli,Electronics,Monitor,3,63315.0,0,3279.28,Debit Card
+ORD0262,2025-04-24,C1096,Suresh,Bangalore,Furniture,Table Lamp,5,12107.75,5,1224.63,UPI
+ORD0263,2025-09-05,C1107,Priya,Coimbatore,Electronics,Headphones,2,6575.4,10,613.63,Credit Card
+ORD0264,2025-09-24,C1122,Priya,Bangalore,Home Appliances,Microwave,4,48900.0,0,4941.1,UPI
+ORD0265,2025-01-12,C1174,Manoj,Madurai,Clothing,T-Shirt,2,2956.4,5,403.03,Debit Card
+ORD0266,2025-10-14,C1060,Manoj,Tirunelveli,Home Appliances,Air Cooler,2,17090.1,15,1619.27,Net Banking
+ORD0267,2025-04-12,C1110,Suresh,Chennai,Home Appliances,Vacuum Cleaner,2,15067.8,10,2454.47,UPI
+ORD0268,2025-10-23,C1048,Meena,Erode,Electronics,Monitor,2,43986.0,0,4161.08,Cash on Delivery
+ORD0269,2025-09-28,C1100,Keerthi,Tirunelveli,Clothing,Sneakers,5,10957.5,10,1039.18,Cash on Delivery
+ORD0270,2025-11-13,C1158,Keerthi,Coimbatore,Furniture,Bookshelf,2,16262.0,0,1472.64,UPI
+ORD0271,2025-04-04,C1131,Suresh,Tirunelveli,Clothing,Jeans,5,6256.0,20,533.2,Credit Card
+ORD0272,2025-09-07,C1043,Anitha,Salem,Furniture,Sofa,2,54469.8,10,9703.11,Net Banking
+ORD0273,2025-01-28,C1125,Karthik,Trichy,Clothing,T-Shirt,4,5280.0,20,691.8,Cash on Delivery
+ORD0274,2025-12-17,C1182,Harini,Bangalore,Home Appliances,Air Cooler,4,38960.0,0,5692.74,Credit Card
+ORD0275,2025-05-30,C1058,Vijay,Salem,Electronics,Headphones,2,12231.5,15,1512.55,Cash on Delivery
+ORD0276,2025-10-09,C1030,Rahul,Erode,Electronics,Monitor,5,35542.75,15,4278.64,Cash on Delivery
+ORD0277,2025-02-22,C1009,Anitha,Salem,Furniture,Bookshelf,3,11283.75,15,1970.14,UPI
+ORD0278,2025-05-02,C1177,Meena,Tirunelveli,Furniture,Sofa,2,110922.0,5,19513.88,Credit Card
+ORD0279,2025-01-31,C1072,Keerthi,Madurai,Clothing,Sneakers,3,10521.9,10,1392.73,Net Banking
+ORD0280,2025-12-14,C1193,Manoj,Tirunelveli,Electronics,Smartphone,1,28665.3,5,4636.4,Credit Card
+ORD0281,2025-05-08,C1064,Manoj,Tirunelveli,Furniture,Bookshelf,4,17052.8,20,2174.37,Cash on Delivery
+ORD0282,2025-07-12,C1163,Manoj,Coimbatore,Home Appliances,Mixer Grinder,4,24202.8,10,3705.44,Debit Card
+ORD0283,2025-08-21,C1149,Arun,Coimbatore,Home Appliances,Microwave,4,62643.6,10,11245.66,Net Banking
+ORD0284,2025-07-23,C1055,Anitha,Salem,Furniture,Table Lamp,3,4484.7,10,574.23,Credit Card
+ORD0285,2025-10-17,C1175,Manoj,Chennai,Home Appliances,Microwave,1,7336.35,15,222.06,Credit Card
+ORD0286,2025-08-14,C1110,Divya,Madurai,Home Appliances,Mixer Grinder,3,10265.4,10,522.18,Debit Card
+ORD0287,2025-05-09,C1171,Naveen,Madurai,Electronics,Headphones,1,3641.4,10,576.86,Credit Card
+ORD0288,2025-08-08,C1001,Divya,Bangalore,Electronics,Laptop,1,34956.8,20,2043.31,Cash on Delivery
+ORD0289,2025-01-05,C1031,Harini,Tirunelveli,Electronics,Headphones,2,9426.0,0,838.17,UPI
+ORD0290,2025-02-22,C1095,Rahul,Madurai,Electronics,Headphones,4,27116.8,5,4110.04,Credit Card
+ORD0291,2025-02-05,C1167,Karthik,Bangalore,Electronics,Monitor,3,39845.85,5,7924.62,Net Banking
+ORD0292,2025-12-18,C1023,Priya,Madurai,Home Appliances,Electric Kettle,1,2901.9,15,253.22,Cash on Delivery
+ORD0293,2025-06-11,C1071,Naveen,Coimbatore,Furniture,Desk,2,20905.6,20,2550.51,Net Banking
+ORD0294,2025-05-26,C1053,Vijay,Trichy,Electronics,Headphones,4,12884.0,0,2360.94,Credit Card
+ORD0295,2025-09-11,C1062,Anitha,Coimbatore,Home Appliances,Mixer Grinder,5,11691.0,10,2265.33,Credit Card
+ORD0296,2025-07-18,C1140,Naveen,Madurai,Home Appliances,Microwave,4,32780.0,0,4912.14,UPI
+ORD0297,2025-05-15,C1016,Manoj,Tirunelveli,Furniture,Office Chair,5,38772.0,20,5831.65,Cash on Delivery
+ORD0298,2025-12-26,C1164,Vijay,Madurai,Home Appliances,Mixer Grinder,3,8596.8,10,416.37,Credit Card
+ORD0299,2025-03-21,C1151,Naveen,Coimbatore,Clothing,Jacket,3,15341.55,5,803.04,UPI
+ORD0300,2025-08-11,C1157,Keerthi,Chennai,Electronics,Keyboard,3,6114.0,0,318.86,Credit Card
+ORD0301,2025-12-26,C1128,Meena,Salem,Electronics,Smartphone,2,69103.0,5,11744.88,Debit Card
+ORD0302,2025-03-02,C1110,Rahul,Coimbatore,Electronics,Headphones,3,15924.0,20,2017.26,Cash on Delivery
+ORD0303,2025-08-22,C1128,Harini,Madurai,Clothing,T-Shirt,3,2219.4,10,369.45,Net Banking
+ORD0304,2025-12-12,C1190,Vijay,Chennai,Electronics,Smartphone,1,68275.0,0,6252.2,Cash on Delivery
+ORD0305,2025-07-06,C1046,Harini,Chennai,Home Appliances,Electric Kettle,5,12905.75,5,1254.52,Cash on Delivery
+ORD0306,2025-06-13,C1147,Meena,Coimbatore,Clothing,T-Shirt,5,2883.25,5,231.93,Net Banking
+ORD0307,2025-01-24,C1120,Harini,Salem,Home Appliances,Mixer Grinder,3,15543.0,0,2238.59,UPI
+ORD0308,2025-07-08,C1145,Manoj,Salem,Furniture,Bookshelf,5,29639.5,15,2670.71,Cash on Delivery
+ORD0309,2025-04-11,C1002,Suresh,Chennai,Furniture,Desk,2,23169.6,10,3315.8,UPI
+ORD0310,2025-06-21,C1189,Swetha,Salem,Electronics,Keyboard,1,1824.0,20,341.32,Cash on Delivery
+ORD0311,2025-09-09,C1183,Rahul,Coimbatore,Electronics,Smartphone,1,21735.2,20,1960.94,Debit Card
+ORD0312,2025-08-23,C1025,Vijay,Madurai,Electronics,Monitor,4,30246.4,20,3524.6,Cash on Delivery
+ORD0313,2025-12-06,C1075,Rahul,Erode,Furniture,Desk,4,55728.0,10,4963.68,Debit Card
+ORD0314,2025-04-30,C1035,Manoj,Coimbatore,Electronics,Smartphone,2,35955.6,5,4276.07,Debit Card
+ORD0315,2025-07-28,C1092,Manoj,Trichy,Electronics,Monitor,4,58146.8,15,4218.63,UPI
+ORD0316,2025-02-16,C1181,Swetha,Chennai,Furniture,Bookshelf,2,15903.0,5,922.47,Credit Card
+ORD0317,2025-07-02,C1013,Naveen,Salem,Home Appliances,Vacuum Cleaner,3,23544.0,0,4987.95,Cash on Delivery
+ORD0318,2025-10-12,C1119,Priya,Madurai,Furniture,Office Chair,1,5195.0,0,993.09,Credit Card
+ORD0319,2025-03-08,C1096,Naveen,Coimbatore,Furniture,Table Lamp,5,13050.0,10,2492.07,UPI
+ORD0320,2025-01-12,C1166,Anitha,Madurai,Electronics,Smartphone,1,60774.3,10,3393.01,Cash on Delivery
+ORD0321,2025-01-26,C1111,Harini,Tirunelveli,Furniture,Sofa,4,67768.8,15,9734.73,Credit Card
+ORD0322,2025-07-01,C1071,Rahul,Bangalore,Furniture,Desk,2,7307.2,20,915.3,Credit Card
+ORD0323,2025-11-28,C1106,Vijay,Bangalore,Clothing,Jacket,1,2266.2,10,226.88,Cash on Delivery
+ORD0324,2025-04-13,C1005,Suresh,Erode,Furniture,Sofa,4,182529.0,15,15694.9,Net Banking
+ORD0325,2025-09-15,C1070,Karthik,Chennai,Clothing,Jacket,3,10782.0,0,2180.98,Debit Card
+ORD0326,2025-01-30,C1092,Manoj,Trichy,Home Appliances,Vacuum Cleaner,2,12616.0,5,1944.97,Debit Card
+ORD0327,2025-10-01,C1148,Harini,Tirunelveli,Electronics,Smartphone,3,190947.15,5,13831.65,Net Banking
+ORD0328,2025-06-12,C1008,Swetha,Erode,Clothing,Sneakers,5,29055.75,5,4016.33,Credit Card
+ORD0329,2025-09-10,C1126,Arun,Coimbatore,Clothing,Jeans,1,1561.6,20,89.32,Net Banking
+ORD0330,2025-09-02,C1158,Divya,Madurai,Electronics,Headphones,3,19018.05,5,3778.75,Debit Card
+ORD0331,2025-01-31,C1151,Swetha,Madurai,Electronics,Smartphone,1,53979.2,20,8977.49,UPI
+ORD0332,2025-07-11,C1026,Meena,Salem,Home Appliances,Vacuum Cleaner,3,20619.75,5,3443.5,Cash on Delivery
+ORD0333,2025-11-24,C1045,Swetha,Erode,Home Appliances,Microwave,2,28646.4,20,4539.23,Cash on Delivery
+ORD0334,2025-06-07,C1046,Swetha,Chennai,Clothing,Jeans,5,10412.0,20,265.56,Net Banking
+ORD0335,2025-06-12,C1027,Anitha,Madurai,Furniture,Sofa,3,65832.15,5,6679.18,Debit Card
+ORD0336,2025-03-27,C1115,Arun,Salem,Electronics,Headphones,2,5688.0,0,623.3,UPI
+ORD0337,2025-01-01,C1113,Swetha,Tirunelveli,Electronics,Keyboard,2,6784.7,15,1203.61,Debit Card
+ORD0338,2025-10-07,C1123,Manoj,Trichy,Home Appliances,Mixer Grinder,2,12392.0,0,2303.22,UPI
+ORD0339,2025-05-31,C1067,Priya,Coimbatore,Electronics,Headphones,3,5592.15,15,306.75,UPI
+ORD0340,2025-10-08,C1153,Keerthi,Bangalore,Electronics,Headphones,1,4116.35,5,599.93,Cash on Delivery
+ORD0341,2025-03-22,C1085,Divya,Trichy,Electronics,Laptop,4,258211.2,20,36858.74,Net Banking
+ORD0342,2025-05-16,C1061,Priya,Chennai,Clothing,Shirt,4,6304.0,20,1026.14,Credit Card
+ORD0343,2025-01-28,C1110,Priya,Salem,Clothing,T-Shirt,5,7044.25,5,415.52,Credit Card
+ORD0344,2025-03-29,C1122,Harini,Coimbatore,Clothing,T-Shirt,3,3350.7,15,370.74,Debit Card
+ORD0345,2025-02-16,C1095,Suresh,Erode,Home Appliances,Electric Kettle,2,5650.0,0,535.4,Cash on Delivery
+ORD0346,2025-05-15,C1145,Arun,Madurai,Furniture,Bookshelf,1,3963.6,10,683.29,Cash on Delivery
+ORD0347,2025-10-29,C1016,Harini,Tirunelveli,Furniture,Sofa,5,181740.0,20,24862.31,Cash on Delivery
+ORD0348,2025-10-21,C1077,Priya,Tirunelveli,Furniture,Table Lamp,1,2044.8,20,353.91,Net Banking
+ORD0349,2025-12-13,C1194,Anitha,Madurai,Furniture,Office Chair,2,16094.9,5,1029.29,Cash on Delivery
+ORD0350,2025-02-10,C1161,Karthik,Salem,Home Appliances,Electric Kettle,3,3822.0,0,443.26,Cash on Delivery
+ORD0351,2025-10-10,C1134,Anitha,Chennai,Clothing,Shirt,5,8012.0,20,1224.93,UPI
+ORD0352,2025-08-01,C1146,Keerthi,Coimbatore,Furniture,Desk,1,13219.0,0,2426.7,Net Banking
+ORD0353,2025-06-26,C1099,Naveen,Bangalore,Home Appliances,Microwave,5,72152.25,15,2443.74,Debit Card
+ORD0354,2025-07-26,C1156,Naveen,Tirunelveli,Furniture,Sofa,1,39544.2,10,6026.04,UPI
+ORD0355,2025-09-01,C1006,Meena,Salem,Clothing,Shirt,3,3503.7,15,607.54,UPI
+ORD0356,2025-04-27,C1191,Anitha,Erode,Furniture,Bookshelf,3,23587.2,20,3060.31,Credit Card
+ORD0357,2025-08-15,C1190,Anitha,Erode,Furniture,Table Lamp,1,2479.5,5,133.04,Net Banking
+ORD0358,2025-07-26,C1146,Arun,Madurai,Furniture,Sofa,2,62308.0,0,5758.09,Cash on Delivery
+ORD0359,2025-01-26,C1071,Meena,Bangalore,Clothing,Jeans,5,13125.0,0,2176.12,Credit Card
+ORD0360,2025-07-10,C1115,Karthik,Bangalore,Home Appliances,Vacuum Cleaner,5,63148.5,10,5905.79,Debit Card
+ORD0361,2025-12-19,C1008,Suresh,Chennai,Electronics,Headphones,2,12470.4,20,1902.62,Credit Card
+ORD0362,2025-04-24,C1069,Naveen,Tirunelveli,Furniture,Desk,5,21640.0,0,2826.11,Credit Card
+ORD0363,2025-11-28,C1003,Divya,Salem,Furniture,Sofa,5,171081.0,10,18313.73,Cash on Delivery
+ORD0364,2025-06-28,C1056,Anitha,Salem,Home Appliances,Microwave,5,73172.25,15,9282.84,UPI
+ORD0365,2025-09-19,C1166,Keerthi,Salem,Clothing,Sneakers,3,6081.75,15,233.25,Debit Card
+ORD0366,2025-11-24,C1067,Naveen,Salem,Clothing,Shirt,2,1771.2,20,265.91,UPI
+ORD0367,2025-11-04,C1175,Karthik,Chennai,Home Appliances,Microwave,4,42634.8,10,8065.44,Cash on Delivery
+ORD0368,2025-07-18,C1182,Keerthi,Trichy,Electronics,Monitor,3,34286.4,20,4406.26,Cash on Delivery
+ORD0369,2025-12-10,C1077,Harini,Madurai,Clothing,Sneakers,5,13423.5,10,692.55,Credit Card
+ORD0370,2025-05-13,C1168,Priya,Trichy,Furniture,Bookshelf,3,17979.3,10,1914.44,Debit Card
+ORD0371,2025-07-10,C1076,Anitha,Coimbatore,Clothing,Sneakers,4,6204.8,20,736.22,Net Banking
+ORD0372,2025-02-06,C1129,Priya,Tirunelveli,Home Appliances,Electric Kettle,5,9443.5,15,346.49,Credit Card
+ORD0373,2025-03-12,C1105,Keerthi,Bangalore,Furniture,Bookshelf,2,15547.7,5,2719.6,Cash on Delivery
+ORD0374,2025-06-20,C1163,Arun,Chennai,Furniture,Bookshelf,4,28427.8,5,4886.82,Credit Card
+ORD0375,2025-10-23,C1196,Manoj,Coimbatore,Furniture,Table Lamp,2,3869.2,15,371.74,Cash on Delivery
+ORD0376,2025-07-16,C1137,Divya,Erode,Electronics,Laptop,1,44892.8,20,2352.29,UPI
+ORD0377,2025-11-17,C1178,Meena,Salem,Furniture,Desk,2,9659.4,15,1092.16,Debit Card
+ORD0378,2025-03-27,C1077,Rahul,Bangalore,Electronics,Laptop,5,296332.0,20,22945.57,Credit Card
+ORD0379,2025-06-25,C1193,Divya,Madurai,Home Appliances,Microwave,4,27789.4,5,2240.79,Credit Card
+ORD0380,2025-04-19,C1130,Karthik,Coimbatore,Electronics,Monitor,3,84948.0,0,9665.61,Debit Card
+ORD0381,2025-10-01,C1013,Naveen,Coimbatore,Electronics,Monitor,1,8580.0,0,1036.91,Cash on Delivery
+ORD0382,2025-03-05,C1180,Karthik,Trichy,Clothing,Jacket,1,3626.1,15,507.59,Net Banking
+ORD0383,2025-05-19,C1027,Vijay,Coimbatore,Furniture,Table Lamp,3,2898.0,0,390.12,Net Banking
+ORD0384,2025-04-13,C1052,Meena,Tirunelveli,Clothing,Sneakers,3,8439.0,0,1208.33,Credit Card
+ORD0385,2025-12-19,C1061,Arun,Chennai,Home Appliances,Microwave,1,7047.2,20,942.45,Credit Card
+ORD0386,2025-02-16,C1066,Naveen,Trichy,Electronics,Laptop,4,195840.0,10,22311.49,UPI
+ORD0387,2025-03-31,C1093,Manoj,Erode,Electronics,Headphones,4,27400.0,0,1812.5,UPI
+ORD0388,2025-01-05,C1085,Meena,Bangalore,Furniture,Desk,5,41975.0,0,4757.69,Debit Card
+ORD0389,2025-04-04,C1103,Anitha,Salem,Electronics,Keyboard,4,15357.8,15,2116.36,Credit Card
+ORD0390,2025-02-27,C1041,Priya,Tirunelveli,Furniture,Office Chair,5,51632.0,20,6987.2,Credit Card
+ORD0391,2025-11-09,C1157,Arun,Madurai,Home Appliances,Microwave,4,59988.0,0,12051.05,Cash on Delivery
+ORD0392,2025-01-24,C1168,Meena,Chennai,Electronics,Headphones,5,28348.0,20,4054.94,Credit Card
+ORD0393,2025-12-09,C1134,Swetha,Coimbatore,Clothing,Sneakers,4,26296.0,5,3271.96,Cash on Delivery
+ORD0394,2025-03-18,C1165,Karthik,Bangalore,Electronics,Laptop,4,183356.0,0,32590.26,Debit Card
+ORD0395,2025-05-04,C1013,Vijay,Trichy,Clothing,Shirt,5,8997.25,15,864.25,Credit Card
+ORD0396,2025-02-10,C1147,Anitha,Coimbatore,Home Appliances,Air Cooler,4,51566.4,10,2845.44,Cash on Delivery
+ORD0397,2025-12-01,C1104,Suresh,Chennai,Electronics,Laptop,5,354925.0,0,67579.31,Net Banking
+ORD0398,2025-11-13,C1144,Divya,Bangalore,Clothing,Sneakers,3,13428.0,0,2535.48,Cash on Delivery
+ORD0399,2025-06-19,C1184,Anitha,Coimbatore,Home Appliances,Microwave,1,16905.25,5,724.79,Debit Card
+ORD0400,2025-11-21,C1134,Meena,Coimbatore,Clothing,Sneakers,1,2417.4,15,124.2,Cash on Delivery
+ORD0401,2025-02-24,C1051,Divya,Coimbatore,Clothing,Sneakers,4,11104.4,15,1861.92,Credit Card
+ORD0402,2025-06-23,C1012,Naveen,Coimbatore,Electronics,Keyboard,4,13907.2,20,2538.79,Credit Card
+ORD0403,2025-09-13,C1189,Arun,Tirunelveli,Electronics,Monitor,5,91296.0,20,13948.55,Credit Card
+ORD0404,2025-12-21,C1027,Suresh,Erode,Furniture,Desk,5,78370.0,15,7733.0,Net Banking
+ORD0405,2025-12-21,C1102,Meena,Salem,Furniture,Bookshelf,4,19703.0,5,2219.87,Net Banking
+ORD0406,2025-06-03,C1162,Divya,Trichy,Clothing,Sneakers,2,11903.4,10,1806.03,Credit Card
+ORD0407,2025-12-30,C1139,Swetha,Erode,Furniture,Sofa,1,32867.2,20,3341.37,Net Banking
+ORD0408,2025-12-08,C1074,Harini,Tirunelveli,Home Appliances,Vacuum Cleaner,1,13564.0,0,736.47,Credit Card
+ORD0409,2025-01-28,C1069,Manoj,Madurai,Electronics,Smartphone,3,153322.2,10,9182.9,UPI
+ORD0410,2025-12-20,C1193,Vijay,Chennai,Clothing,Jeans,3,8559.0,0,1324.41,Net Banking
+ORD0411,2025-04-25,C1131,Manoj,Salem,Home Appliances,Electric Kettle,1,2177.7,15,214.1,Debit Card
+ORD0412,2025-10-10,C1191,Rahul,Trichy,Electronics,Laptop,5,366256.5,15,61749.82,Debit Card
+ORD0413,2025-10-29,C1076,Anitha,Madurai,Furniture,Desk,1,6709.85,5,1123.66,UPI
+ORD0414,2025-07-13,C1072,Vijay,Salem,Electronics,Keyboard,2,3068.8,20,502.74,UPI
+ORD0415,2025-06-19,C1011,Karthik,Erode,Home Appliances,Electric Kettle,5,4832.0,20,789.23,Debit Card
+ORD0416,2025-09-09,C1182,Meena,Trichy,Clothing,T-Shirt,2,3132.0,0,575.24,Credit Card
+ORD0417,2025-08-01,C1090,Divya,Trichy,Home Appliances,Mixer Grinder,3,14072.4,10,1194.85,Net Banking
+ORD0418,2025-09-29,C1193,Naveen,Chennai,Home Appliances,Vacuum Cleaner,1,9067.8,15,619.87,Net Banking
+ORD0419,2025-11-15,C1175,Meena,Tirunelveli,Furniture,Office Chair,1,10189.8,10,1292.48,Debit Card
+ORD0420,2025-01-13,C1131,Anitha,Bangalore,Clothing,Sneakers,1,3731.6,5,361.79,UPI
+ORD0421,2025-02-19,C1137,Arun,Coimbatore,Furniture,Sofa,2,112584.5,5,21339.45,Cash on Delivery
+ORD0422,2025-02-23,C1180,Swetha,Tirunelveli,Furniture,Sofa,1,28076.0,0,3595.65,Debit Card
+ORD0423,2025-01-20,C1014,Karthik,Salem,Electronics,Laptop,5,158464.0,20,25302.78,Debit Card
+ORD0424,2025-07-28,C1162,Suresh,Tirunelveli,Home Appliances,Air Cooler,3,18553.8,15,2633.91,Net Banking
+ORD0425,2025-01-04,C1012,Swetha,Coimbatore,Electronics,Monitor,3,70428.0,0,6991.54,Debit Card
+ORD0426,2025-11-07,C1196,Anitha,Tirunelveli,Electronics,Headphones,4,30136.0,0,3935.1,Net Banking
+ORD0427,2025-04-23,C1140,Rahul,Madurai,Furniture,Table Lamp,3,6084.0,0,876.7,Net Banking
+ORD0428,2025-03-14,C1002,Keerthi,Tirunelveli,Electronics,Laptop,5,354410.0,0,36078.05,Debit Card
+ORD0429,2025-04-19,C1037,Karthik,Madurai,Home Appliances,Vacuum Cleaner,2,17366.0,5,1076.45,Net Banking
+ORD0430,2025-01-28,C1019,Rahul,Coimbatore,Home Appliances,Vacuum Cleaner,3,18832.8,5,3123.42,Cash on Delivery
+ORD0431,2025-06-19,C1172,Naveen,Trichy,Clothing,Jeans,1,1733.6,20,55.25,Credit Card
+ORD0432,2025-06-12,C1085,Keerthi,Salem,Home Appliances,Air Cooler,5,37984.0,20,4420.07,Debit Card
+ORD0433,2025-08-08,C1081,Divya,Trichy,Furniture,Office Chair,4,34318.8,10,1984.72,Debit Card
+ORD0434,2025-09-03,C1092,Manoj,Salem,Home Appliances,Air Cooler,4,64152.0,0,5124.52,Net Banking
+ORD0435,2025-02-11,C1138,Divya,Salem,Clothing,Jeans,1,1308.0,0,254.31,UPI
+ORD0436,2025-10-25,C1055,Arun,Salem,Home Appliances,Vacuum Cleaner,5,58828.5,15,8157.42,Credit Card
+ORD0437,2025-07-07,C1198,Keerthi,Salem,Home Appliances,Electric Kettle,2,4644.8,20,495.93,Cash on Delivery
+ORD0438,2025-07-06,C1158,Naveen,Madurai,Electronics,Smartphone,5,90095.75,15,4916.33,Net Banking
+ORD0439,2025-10-17,C1092,Arun,Trichy,Furniture,Table Lamp,4,5796.0,0,550.28,Credit Card
+ORD0440,2025-01-22,C1093,Suresh,Bangalore,Furniture,Sofa,4,84172.0,0,18240.09,Debit Card
+ORD0441,2025-02-22,C1149,Vijay,Madurai,Clothing,Shirt,4,7269.2,15,651.32,UPI
+ORD0442,2025-09-22,C1058,Vijay,Tirunelveli,Clothing,Jacket,3,11796.3,15,1913.97,Net Banking
+ORD0443,2025-01-04,C1043,Divya,Coimbatore,Furniture,Table Lamp,5,7837.5,5,533.27,Credit Card
+ORD0444,2025-07-05,C1107,Manoj,Erode,Electronics,Smartphone,1,37022.6,15,4033.01,Net Banking
+ORD0445,2025-03-24,C1063,Arun,Madurai,Home Appliances,Mixer Grinder,5,18140.25,5,2712.36,UPI
+ORD0446,2025-10-21,C1043,Rahul,Madurai,Furniture,Office Chair,5,46568.0,20,8604.44,UPI
+ORD0447,2025-12-05,C1056,Anitha,Bangalore,Clothing,T-Shirt,4,3226.2,5,592.53,Net Banking
+ORD0448,2025-03-15,C1169,Vijay,Salem,Furniture,Sofa,2,68776.9,15,8866.08,UPI
+ORD0449,2025-04-28,C1034,Priya,Chennai,Home Appliances,Air Cooler,2,24902.4,20,3395.26,Credit Card
+ORD0450,2025-11-07,C1122,Keerthi,Chennai,Electronics,Smartphone,5,224930.0,0,14809.91,Credit Card
+ORD0451,2025-11-05,C1134,Suresh,Erode,Electronics,Keyboard,1,4199.0,15,279.29,Cash on Delivery
+ORD0452,2025-07-15,C1190,Manoj,Coimbatore,Clothing,Sneakers,4,9345.6,10,1085.16,Credit Card
+ORD0453,2025-02-12,C1140,Suresh,Salem,Clothing,Sneakers,2,3088.0,0,457.82,UPI
+ORD0454,2025-09-24,C1168,Divya,Erode,Electronics,Keyboard,4,14268.0,0,1088.82,Net Banking
+ORD0455,2025-05-10,C1109,Keerthi,Erode,Clothing,Sneakers,5,15967.25,15,2488.42,Cash on Delivery
+ORD0456,2025-10-10,C1095,Vijay,Bangalore,Home Appliances,Electric Kettle,3,5414.4,20,425.25,Cash on Delivery
+ORD0457,2025-03-12,C1115,Manoj,Madurai,Electronics,Smartphone,1,20843.2,20,1836.19,Debit Card
+ORD0458,2025-10-09,C1100,Naveen,Chennai,Electronics,Smartphone,1,62654.4,5,7686.67,Net Banking
+ORD0459,2025-08-11,C1068,Divya,Erode,Electronics,Laptop,1,74913.0,0,12972.24,Cash on Delivery
+ORD0460,2025-11-11,C1015,Manoj,Madurai,Clothing,Sneakers,4,20384.0,0,1718.17,Net Banking
+ORD0461,2025-05-27,C1154,Vijay,Trichy,Furniture,Office Chair,5,38880.0,0,4321.74,UPI
+ORD0462,2025-03-22,C1200,Suresh,Erode,Electronics,Headphones,4,13187.2,20,712.8,UPI
+ORD0463,2025-12-27,C1141,Rahul,Erode,Electronics,Laptop,3,238801.5,10,17544.8,Credit Card
+ORD0464,2025-08-21,C1002,Rahul,Madurai,Home Appliances,Vacuum Cleaner,4,53176.0,0,7708.78,Net Banking
+ORD0465,2025-05-31,C1132,Rahul,Salem,Clothing,T-Shirt,4,4070.4,20,416.06,Credit Card
+ORD0466,2025-06-23,C1151,Harini,Chennai,Home Appliances,Air Cooler,4,32054.4,10,1490.02,Credit Card
+ORD0467,2025-12-13,C1106,Meena,Chennai,Furniture,Bookshelf,3,19080.9,10,969.53,Debit Card
+ORD0468,2025-02-08,C1081,Meena,Trichy,Furniture,Table Lamp,5,7609.5,5,1548.61,Credit Card
+ORD0469,2025-09-13,C1189,Divya,Salem,Furniture,Desk,2,14734.5,5,2717.63,Net Banking
+ORD0470,2025-07-02,C1031,Priya,Bangalore,Furniture,Office Chair,5,20432.0,20,3736.17,Cash on Delivery
+ORD0471,2025-07-10,C1148,Harini,Salem,Clothing,Jacket,4,10553.6,20,713.9,Credit Card
+ORD0472,2025-10-23,C1135,Manoj,Tirunelveli,Furniture,Office Chair,4,55436.0,0,7507.19,Cash on Delivery
+ORD0473,2025-12-18,C1031,Swetha,Bangalore,Furniture,Table Lamp,3,1602.0,0,263.69,Cash on Delivery
+ORD0474,2025-10-25,C1093,Keerthi,Salem,Electronics,Headphones,2,9527.4,10,717.54,Cash on Delivery
+ORD0475,2025-11-10,C1048,Anitha,Tirunelveli,Clothing,Shirt,2,2984.4,10,289.68,Cash on Delivery
+ORD0476,2025-05-24,C1147,Karthik,Trichy,Home Appliances,Electric Kettle,1,1999.75,5,273.78,Cash on Delivery
+ORD0477,2025-04-11,C1122,Manoj,Chennai,Furniture,Desk,2,18540.2,15,933.69,Net Banking
+ORD0478,2025-10-01,C1077,Rahul,Chennai,Clothing,Jacket,4,9918.0,5,522.74,Debit Card
+ORD0479,2025-09-01,C1191,Meena,Salem,Electronics,Keyboard,3,8522.4,20,978.15,Debit Card
+ORD0480,2025-06-26,C1032,Meena,Trichy,Electronics,Keyboard,5,9130.5,10,870.76,Net Banking
+ORD0481,2025-09-07,C1098,Keerthi,Salem,Home Appliances,Mixer Grinder,4,14006.8,5,2120.61,Debit Card
+ORD0482,2025-08-04,C1021,Karthik,Erode,Home Appliances,Mixer Grinder,2,9122.4,10,1331.98,Debit Card
+ORD0483,2025-11-06,C1114,Manoj,Erode,Home Appliances,Microwave,5,66023.75,15,6462.28,Credit Card
+ORD0484,2025-01-12,C1170,Rahul,Coimbatore,Furniture,Desk,2,11447.8,15,515.28,UPI
+ORD0485,2025-08-31,C1198,Suresh,Coimbatore,Electronics,Laptop,1,41760.0,20,1937.52,Cash on Delivery
+ORD0486,2025-06-08,C1189,Rahul,Bangalore,Furniture,Desk,2,9840.0,20,1599.47,UPI
+ORD0487,2025-01-18,C1122,Anitha,Salem,Clothing,Shirt,5,8127.25,5,1684.96,Net Banking
+ORD0488,2025-04-01,C1112,Vijay,Salem,Home Appliances,Vacuum Cleaner,3,30938.4,20,1813.36,UPI
+ORD0489,2025-08-15,C1106,Rahul,Madurai,Clothing,Shirt,3,2463.0,0,342.27,Credit Card
+ORD0490,2025-06-26,C1137,Arun,Bangalore,Clothing,Jacket,4,17016.0,0,3066.25,Debit Card
+ORD0491,2025-11-02,C1141,Meena,Trichy,Furniture,Office Chair,4,48225.6,15,4562.52,Credit Card
+ORD0492,2025-11-27,C1057,Rahul,Coimbatore,Home Appliances,Air Cooler,4,65531.0,5,8540.24,Net Banking
+ORD0493,2025-12-22,C1167,Swetha,Salem,Clothing,Shirt,4,4740.0,0,383.98,Debit Card
+ORD0494,2025-02-26,C1116,Rahul,Bangalore,Home Appliances,Vacuum Cleaner,2,20506.0,0,1555.7,Net Banking
+ORD0495,2025-01-12,C1073,Rahul,Madurai,Furniture,Office Chair,4,67648.0,0,6059.76,Credit Card
+ORD0496,2025-01-08,C1088,Suresh,Salem,Home Appliances,Electric Kettle,4,8571.4,15,1251.24,UPI
+ORD0497,2025-06-19,C1015,Rahul,Tirunelveli,Electronics,Smartphone,1,40458.3,15,2361.66,Debit Card
+ORD0498,2025-07-15,C1197,Swetha,Trichy,Electronics,Laptop,4,290846.2,15,20218.92,UPI
+ORD0499,2025-04-12,C1134,Naveen,Trichy,Home Appliances,Mixer Grinder,4,20473.2,10,3975.01,Credit Card
+ORD0500,2025-11-19,C1134,Priya,Salem,Electronics,Monitor,4,100522.8,10,6914.26,UPI
+ORD0501,2025-12-08,C1061,Naveen,Tirunelveli,Furniture,Office Chair,3,14951.1,5,2654.51,Net Banking
+ORD0502,2025-03-03,C1003,Arun,Bangalore,Home Appliances,Electric Kettle,5,7353.0,10,1220.86,Credit Card
+ORD0503,2025-03-22,C1176,Keerthi,Erode,Home Appliances,Mixer Grinder,1,2690.1,10,388.93,Net Banking
+ORD0504,2025-02-24,C1060,Meena,Erode,Furniture,Table Lamp,4,5160.0,0,862.61,Debit Card
+ORD0505,2025-03-10,C1125,Swetha,Bangalore,Clothing,T-Shirt,5,4412.0,20,611.05,Credit Card
+ORD0506,2025-10-18,C1090,Meena,Bangalore,Furniture,Sofa,3,137364.0,20,6491.6,Net Banking
+ORD0507,2025-03-21,C1068,Vijay,Erode,Home Appliances,Microwave,4,22435.2,20,1894.37,Credit Card
+ORD0508,2025-01-10,C1062,Meena,Coimbatore,Clothing,Sneakers,5,22201.5,5,2921.54,Cash on Delivery
+ORD0509,2025-10-10,C1073,Meena,Tirunelveli,Furniture,Sofa,3,75717.0,0,10520.43,UPI
+ORD0510,2025-01-23,C1009,Divya,Coimbatore,Furniture,Desk,4,28556.0,0,1582.26,Cash on Delivery
+ORD0511,2025-12-03,C1160,Swetha,Salem,Home Appliances,Vacuum Cleaner,1,10451.9,5,1520.88,UPI
+ORD0512,2025-01-07,C1021,Anitha,Chennai,Furniture,Table Lamp,3,7101.75,15,1187.73,UPI
+ORD0513,2025-11-12,C1011,Swetha,Coimbatore,Clothing,Sneakers,3,6093.3,5,1254.0,UPI
+ORD0514,2025-02-21,C1099,Divya,Trichy,Furniture,Sofa,5,137208.0,20,17330.09,Credit Card
+ORD0515,2025-10-13,C1197,Naveen,Erode,Home Appliances,Mixer Grinder,4,23992.0,0,1879.96,Credit Card
+ORD0516,2025-10-09,C1087,Naveen,Madurai,Home Appliances,Vacuum Cleaner,5,63023.25,15,11734.83,Debit Card
+ORD0517,2025-10-09,C1106,Manoj,Tirunelveli,Clothing,Shirt,3,5831.1,5,806.06,Credit Card
+ORD0518,2025-07-12,C1116,Anitha,Tirunelveli,Clothing,Shirt,1,2287.0,0,496.51,Net Banking
+ORD0519,2025-01-09,C1002,Rahul,Trichy,Furniture,Bookshelf,2,16318.0,0,2956.15,Debit Card
+ORD0520,2025-10-11,C1010,Anitha,Erode,Furniture,Office Chair,2,13080.6,10,1274.1,Net Banking
+ORD0521,2025-05-08,C1077,Priya,Tirunelveli,Furniture,Bookshelf,5,32810.0,0,5676.42,Cash on Delivery
+ORD0522,2025-03-30,C1025,Keerthi,Salem,Home Appliances,Vacuum Cleaner,1,12274.85,15,501.32,UPI
+ORD0523,2025-06-21,C1107,Harini,Coimbatore,Clothing,Jacket,2,3218.1,15,118.11,Net Banking
+ORD0524,2025-01-22,C1145,Karthik,Erode,Clothing,Sneakers,5,15713.0,5,802.75,Cash on Delivery
+ORD0525,2025-08-17,C1111,Rahul,Tirunelveli,Electronics,Smartphone,2,37193.4,10,1823.69,Net Banking
+ORD0526,2025-01-26,C1022,Suresh,Tirunelveli,Home Appliances,Microwave,2,15655.3,15,1919.03,Cash on Delivery
+ORD0527,2025-07-22,C1158,Swetha,Trichy,Furniture,Sofa,2,40851.0,10,6824.21,Debit Card
+ORD0528,2025-12-17,C1172,Suresh,Tirunelveli,Electronics,Laptop,3,164804.1,5,15990.2,Net Banking
+ORD0529,2025-12-02,C1044,Meena,Bangalore,Electronics,Headphones,5,8474.5,15,297.7,Credit Card
+ORD0530,2025-04-13,C1194,Swetha,Coimbatore,Clothing,Jeans,1,1161.85,5,236.81,Credit Card
+ORD0531,2025-05-28,C1178,Manoj,Coimbatore,Electronics,Headphones,3,11439.3,15,358.82,Credit Card
+ORD0532,2025-10-03,C1140,Vijay,Salem,Furniture,Desk,5,47652.0,20,6866.03,Credit Card
+ORD0533,2025-12-22,C1150,Naveen,Chennai,Electronics,Keyboard,3,5985.0,0,588.22,Net Banking
+ORD0534,2025-05-19,C1168,Arun,Coimbatore,Electronics,Keyboard,4,10159.2,10,1848.24,UPI
+ORD0535,2025-05-30,C1098,Vijay,Coimbatore,Home Appliances,Electric Kettle,3,7164.0,20,790.66,Credit Card
+ORD0536,2025-04-12,C1183,Arun,Chennai,Home Appliances,Vacuum Cleaner,2,24611.4,10,2257.03,Cash on Delivery
+ORD0537,2025-03-22,C1176,Meena,Erode,Electronics,Headphones,3,6561.6,20,438.97,UPI
+ORD0538,2025-11-17,C1008,Vijay,Salem,Clothing,Jacket,2,5475.6,10,1026.78,Credit Card
+ORD0539,2025-02-14,C1174,Keerthi,Trichy,Home Appliances,Vacuum Cleaner,4,28601.6,20,1314.74,Debit Card
+ORD0540,2025-11-06,C1139,Karthik,Trichy,Clothing,Jacket,2,6568.3,5,624.18,Net Banking
+ORD0541,2025-03-11,C1168,Keerthi,Madurai,Home Appliances,Electric Kettle,3,3064.8,20,338.98,UPI
+ORD0542,2025-04-05,C1187,Arun,Erode,Clothing,Jeans,4,9662.4,10,1065.87,Debit Card
+ORD0543,2025-03-19,C1034,Karthik,Chennai,Furniture,Office Chair,5,67986.0,10,9378.86,Net Banking
+ORD0544,2025-04-29,C1176,Arun,Erode,Furniture,Desk,1,12982.9,15,652.97,Net Banking
+ORD0545,2025-08-29,C1100,Anitha,Bangalore,Clothing,Jeans,2,3173.0,5,256.91,Cash on Delivery
+ORD0546,2025-01-08,C1057,Swetha,Trichy,Clothing,Jacket,2,4447.9,5,890.06,Cash on Delivery
+ORD0547,2025-11-12,C1118,Divya,Tirunelveli,Home Appliances,Microwave,4,24592.0,20,3566.0,Cash on Delivery
+ORD0548,2025-06-10,C1191,Keerthi,Chennai,Home Appliances,Vacuum Cleaner,5,28861.75,15,3035.48,UPI
+ORD0549,2025-05-06,C1143,Suresh,Chennai,Home Appliances,Mixer Grinder,2,8304.5,15,790.31,Debit Card
+ORD0550,2025-05-27,C1109,Rahul,Chennai,Home Appliances,Electric Kettle,5,6723.5,15,1133.46,Cash on Delivery
+ORD0551,2025-02-16,C1200,Keerthi,Madurai,Electronics,Smartphone,4,140770.8,10,15717.14,Credit Card
+ORD0552,2025-08-21,C1024,Rahul,Erode,Furniture,Table Lamp,2,2012.0,0,139.65,Cash on Delivery
+ORD0553,2025-11-21,C1135,Swetha,Tirunelveli,Clothing,T-Shirt,5,8326.75,5,889.92,Cash on Delivery
+ORD0554,2025-01-23,C1145,Harini,Madurai,Furniture,Bookshelf,2,10201.1,5,1767.41,UPI
+ORD0555,2025-08-03,C1187,Manoj,Bangalore,Clothing,Shirt,3,5933.7,5,370.76,Credit Card
+ORD0556,2025-04-14,C1196,Rahul,Chennai,Electronics,Monitor,4,79240.4,15,9500.54,UPI
+ORD0557,2025-11-08,C1056,Keerthi,Bangalore,Home Appliances,Electric Kettle,4,9108.6,15,373.44,Net Banking
+ORD0558,2025-01-04,C1072,Keerthi,Trichy,Furniture,Sofa,1,28607.35,5,1483.6,Debit Card
+ORD0559,2025-01-19,C1171,Keerthi,Salem,Furniture,Office Chair,3,19308.0,0,1322.81,Credit Card
+ORD0560,2025-03-24,C1170,Swetha,Madurai,Clothing,Sneakers,4,22471.2,10,4344.84,UPI
+ORD0561,2025-06-03,C1098,Harini,Coimbatore,Clothing,Shirt,4,7708.0,0,769.12,Credit Card
+ORD0562,2025-03-04,C1135,Suresh,Trichy,Clothing,Shirt,2,4106.0,0,281.6,Net Banking
+ORD0563,2025-02-14,C1181,Rahul,Tirunelveli,Home Appliances,Vacuum Cleaner,5,45832.5,10,5697.74,Net Banking
+ORD0564,2025-07-01,C1145,Anitha,Bangalore,Furniture,Sofa,4,95328.0,20,5677.99,Debit Card
+ORD0565,2025-04-10,C1007,Anitha,Coimbatore,Electronics,Laptop,2,139840.0,20,26545.52,Cash on Delivery
+ORD0566,2025-01-24,C1144,Manoj,Trichy,Clothing,Shirt,1,2005.45,5,320.48,Debit Card
+ORD0567,2025-02-04,C1130,Vijay,Erode,Clothing,Shirt,1,929.7,10,86.49,Net Banking
+ORD0568,2025-11-12,C1050,Meena,Erode,Electronics,Smartphone,4,172384.0,0,27540.22,Cash on Delivery
+ORD0569,2025-03-21,C1086,Anitha,Tirunelveli,Home Appliances,Vacuum Cleaner,1,12183.3,10,1596.5,Debit Card
+ORD0570,2025-10-12,C1148,Naveen,Erode,Electronics,Smartphone,3,46566.15,5,4199.25,UPI
+ORD0571,2025-06-23,C1043,Keerthi,Tirunelveli,Home Appliances,Vacuum Cleaner,2,29502.0,0,5811.33,Debit Card
+ORD0572,2025-12-28,C1070,Suresh,Coimbatore,Clothing,T-Shirt,4,3549.6,10,396.93,Debit Card
+ORD0573,2025-04-21,C1029,Meena,Chennai,Clothing,Jeans,2,2344.3,15,266.12,Cash on Delivery
+ORD0574,2025-09-14,C1088,Anitha,Salem,Furniture,Desk,3,19041.0,0,3613.29,Net Banking
+ORD0575,2025-12-13,C1186,Arun,Bangalore,Furniture,Desk,4,50214.4,20,1993.12,Debit Card
+ORD0576,2025-01-23,C1120,Arun,Coimbatore,Electronics,Headphones,5,31842.0,10,1236.16,Debit Card
+ORD0577,2025-11-24,C1052,Divya,Salem,Furniture,Bookshelf,3,31644.0,10,5264.73,UPI
+ORD0578,2025-05-20,C1071,Priya,Chennai,Furniture,Desk,5,52672.0,20,1970.13,Net Banking
+ORD0579,2025-06-29,C1037,Swetha,Salem,Clothing,Shirt,5,6179.75,5,337.48,Net Banking
+ORD0580,2025-06-23,C1034,Arun,Bangalore,Home Appliances,Mixer Grinder,1,2861.95,15,104.88,Cash on Delivery
+ORD0581,2025-07-20,C1152,Naveen,Bangalore,Furniture,Sofa,5,185877.0,10,17007.09,Credit Card
+ORD0582,2025-12-10,C1146,Karthik,Coimbatore,Electronics,Keyboard,4,4746.4,15,380.98,Cash on Delivery
+ORD0583,2025-08-29,C1037,Harini,Salem,Furniture,Desk,3,29705.55,5,4795.5,Debit Card
+ORD0584,2025-06-16,C1008,Priya,Bangalore,Home Appliances,Air Cooler,1,10844.3,15,1148.53,Credit Card
+ORD0585,2025-05-25,C1148,Karthik,Coimbatore,Clothing,Sneakers,4,8553.6,10,1108.08,UPI
+ORD0586,2025-06-04,C1152,Suresh,Trichy,Home Appliances,Air Cooler,5,43968.0,20,2067.97,Cash on Delivery
+ORD0587,2025-07-16,C1054,Harini,Tirunelveli,Electronics,Headphones,4,19605.6,10,2501.08,Credit Card
+ORD0588,2025-03-30,C1125,Priya,Bangalore,Electronics,Monitor,3,75567.0,0,14338.38,Credit Card
+ORD0589,2025-06-07,C1154,Priya,Tirunelveli,Home Appliances,Mixer Grinder,3,19647.0,0,1284.73,Credit Card
+ORD0590,2025-10-25,C1170,Karthik,Bangalore,Electronics,Smartphone,5,132187.75,15,17468.25,Cash on Delivery
+ORD0591,2025-04-11,C1077,Keerthi,Salem,Furniture,Bookshelf,4,34560.0,0,5151.64,Net Banking
+ORD0592,2025-09-19,C1076,Arun,Erode,Home Appliances,Electric Kettle,5,6085.0,0,1031.83,Debit Card
+ORD0593,2025-02-26,C1061,Suresh,Tirunelveli,Clothing,T-Shirt,3,3271.65,15,302.19,Net Banking
+ORD0594,2025-04-19,C1036,Divya,Tirunelveli,Furniture,Table Lamp,3,6292.8,5,576.04,Credit Card
+ORD0595,2025-03-10,C1166,Arun,Madurai,Electronics,Laptop,4,265597.8,15,51325.65,Credit Card
+ORD0596,2025-02-13,C1117,Manoj,Tirunelveli,Furniture,Table Lamp,5,5253.0,15,599.37,Net Banking
+ORD0597,2025-08-19,C1058,Karthik,Tirunelveli,Home Appliances,Microwave,5,28484.0,20,2981.9,Credit Card
+ORD0598,2025-12-31,C1140,Keerthi,Erode,Clothing,Jacket,1,1688.0,20,172.44,Debit Card
+ORD0599,2025-02-27,C1037,Swetha,Salem,Home Appliances,Mixer Grinder,4,26936.0,0,3743.31,Net Banking
+ORD0600,2025-02-15,C1162,Swetha,Coimbatore,Furniture,Table Lamp,5,12933.0,10,1800.49,Debit Card
+ORD0601,2025-10-01,C1117,Vijay,Bangalore,Electronics,Keyboard,5,14088.75,15,1232.7,Debit Card
+ORD0602,2025-05-29,C1178,Keerthi,Salem,Furniture,Office Chair,5,46335.0,0,7273.72,Net Banking
+ORD0603,2025-03-28,C1189,Keerthi,Chennai,Electronics,Headphones,3,14313.0,0,1024.23,UPI
+ORD0604,2025-05-23,C1158,Rahul,Salem,Clothing,Jeans,3,3174.0,0,484.51,Net Banking
+ORD0605,2025-03-19,C1045,Rahul,Trichy,Home Appliances,Microwave,4,31878.4,20,5309.11,Debit Card
+ORD0606,2025-02-13,C1040,Harini,Bangalore,Furniture,Sofa,4,163821.8,5,25361.82,Credit Card
+ORD0607,2025-04-18,C1165,Rahul,Coimbatore,Clothing,T-Shirt,1,716.55,15,68.28,Debit Card
+ORD0608,2025-09-01,C1175,Swetha,Tirunelveli,Furniture,Table Lamp,4,5985.0,5,794.06,Cash on Delivery
+ORD0609,2025-01-07,C1098,Naveen,Erode,Clothing,Jacket,5,10680.0,0,2200.2,Debit Card
+ORD0610,2025-08-10,C1070,Rahul,Coimbatore,Clothing,Shirt,3,5136.0,20,444.24,Credit Card
+ORD0611,2025-12-11,C1087,Naveen,Madurai,Furniture,Sofa,3,161664.0,0,26573.73,UPI
+ORD0612,2025-01-07,C1135,Priya,Bangalore,Home Appliances,Mixer Grinder,3,11601.9,10,902.89,UPI
+ORD0613,2025-01-13,C1153,Naveen,Trichy,Electronics,Laptop,5,384085.0,0,65437.62,UPI
+ORD0614,2025-02-14,C1169,Manoj,Madurai,Furniture,Table Lamp,1,1128.6,10,96.02,UPI
+ORD0615,2025-11-24,C1197,Suresh,Erode,Home Appliances,Microwave,3,28959.0,0,2813.04,UPI
+ORD0616,2025-07-15,C1016,Rahul,Salem,Home Appliances,Microwave,2,28436.0,0,3798.84,Credit Card
+ORD0617,2025-11-09,C1166,Anitha,Coimbatore,Home Appliances,Electric Kettle,2,5463.8,15,353.1,UPI
+ORD0618,2025-08-15,C1009,Priya,Coimbatore,Clothing,T-Shirt,5,4305.25,15,132.13,Cash on Delivery
+ORD0619,2025-03-18,C1171,Suresh,Salem,Electronics,Laptop,2,145580.4,10,27483.39,Net Banking
+ORD0620,2025-01-02,C1112,Suresh,Coimbatore,Home Appliances,Air Cooler,5,53500.0,0,6171.34,Cash on Delivery
+ORD0621,2025-03-04,C1175,Rahul,Tirunelveli,Clothing,Shirt,1,2094.0,0,234.76,Debit Card
+ORD0622,2025-02-11,C1166,Divya,Madurai,Home Appliances,Microwave,5,32487.0,15,4542.49,Debit Card
+ORD0623,2025-12-23,C1162,Swetha,Erode,Home Appliances,Mixer Grinder,4,10863.0,15,1656.66,Credit Card
+ORD0624,2025-01-19,C1185,Keerthi,Trichy,Furniture,Office Chair,4,45476.0,0,8402.4,Debit Card
+ORD0625,2025-09-13,C1010,Meena,Chennai,Home Appliances,Mixer Grinder,3,7267.5,15,345.87,Net Banking
+ORD0626,2025-08-23,C1060,Priya,Chennai,Furniture,Sofa,2,100080.0,0,13021.14,Net Banking
+ORD0627,2025-01-24,C1004,Karthik,Chennai,Furniture,Desk,3,52338.0,0,6675.78,Credit Card
+ORD0628,2025-10-30,C1030,Anitha,Trichy,Electronics,Laptop,1,83334.0,5,9579.74,Cash on Delivery
+ORD0629,2025-06-16,C1140,Karthik,Erode,Electronics,Monitor,2,13588.8,20,672.46,UPI
+ORD0630,2025-03-03,C1194,Suresh,Madurai,Clothing,Jeans,3,9308.1,5,1089.72,Net Banking
+ORD0631,2025-01-21,C1162,Keerthi,Tirunelveli,Furniture,Office Chair,2,8935.2,15,368.33,UPI
+ORD0632,2025-04-02,C1073,Suresh,Bangalore,Electronics,Monitor,2,26134.5,5,3953.38,Net Banking
+ORD0633,2025-08-19,C1045,Keerthi,Chennai,Home Appliances,Electric Kettle,5,7382.25,15,971.12,UPI
+ORD0634,2025-11-18,C1108,Arun,Trichy,Clothing,Shirt,2,1664.0,20,309.59,Net Banking
+ORD0635,2025-07-05,C1198,Naveen,Trichy,Furniture,Table Lamp,3,2043.45,5,125.99,Credit Card
+ORD0636,2025-12-17,C1046,Karthik,Chennai,Home Appliances,Air Cooler,1,15808.5,10,1319.39,Cash on Delivery
+ORD0637,2025-05-09,C1195,Anitha,Chennai,Clothing,Sneakers,1,1543.2,20,77.01,UPI
+ORD0638,2025-09-06,C1061,Swetha,Bangalore,Electronics,Laptop,5,328477.5,10,34897.87,Debit Card
+ORD0639,2025-04-28,C1059,Priya,Trichy,Electronics,Headphones,4,30118.8,5,3202.85,Credit Card
+ORD0640,2025-02-07,C1125,Arun,Tirunelveli,Home Appliances,Vacuum Cleaner,2,13665.6,20,1330.32,Cash on Delivery
+ORD0641,2025-07-11,C1185,Divya,Erode,Furniture,Table Lamp,3,3585.6,10,203.04,Net Banking
+ORD0642,2025-01-31,C1029,Harini,Bangalore,Clothing,Jeans,4,10309.4,5,1770.72,Credit Card
+ORD0643,2025-06-01,C1044,Keerthi,Trichy,Furniture,Sofa,1,35984.0,20,3712.34,Credit Card
+ORD0644,2025-10-30,C1072,Arun,Tirunelveli,Home Appliances,Air Cooler,2,19908.0,10,2166.43,Credit Card
+ORD0645,2025-10-30,C1002,Suresh,Chennai,Furniture,Sofa,1,39075.2,20,1004.84,Net Banking
+ORD0646,2025-07-21,C1116,Anitha,Trichy,Home Appliances,Mixer Grinder,1,2210.85,15,417.83,Credit Card
+ORD0647,2025-07-03,C1166,Priya,Chennai,Clothing,Jeans,4,8542.4,5,1384.4,Net Banking
+ORD0648,2025-10-26,C1119,Manoj,Madurai,Electronics,Keyboard,4,7614.0,10,1077.82,UPI
+ORD0649,2025-11-18,C1177,Meena,Chennai,Electronics,Keyboard,3,11037.6,10,1696.14,Net Banking
+ORD0650,2025-10-05,C1159,Meena,Chennai,Furniture,Office Chair,5,72238.5,10,13433.2,UPI
+ORD0651,2025-07-16,C1159,Arun,Erode,Clothing,Jacket,3,7764.0,20,1085.63,Net Banking
+ORD0652,2025-12-30,C1086,Divya,Coimbatore,Furniture,Desk,4,51459.2,20,8649.9,Credit Card
+ORD0653,2025-04-26,C1069,Vijay,Tirunelveli,Clothing,Shirt,3,2733.0,0,309.86,Cash on Delivery
+ORD0654,2025-09-06,C1182,Vijay,Salem,Electronics,Keyboard,4,14460.0,0,1186.01,Cash on Delivery
+ORD0655,2025-02-14,C1046,Rahul,Coimbatore,Electronics,Keyboard,1,1754.1,10,94.8,Credit Card
+ORD0656,2025-09-12,C1134,Naveen,Chennai,Furniture,Desk,3,25977.6,20,4634.21,Cash on Delivery
+ORD0657,2025-06-27,C1189,Naveen,Chennai,Home Appliances,Air Cooler,3,30291.0,0,1628.03,Credit Card
+ORD0658,2025-09-24,C1149,Meena,Erode,Clothing,Jacket,4,18519.8,15,1466.66,Credit Card
+ORD0659,2025-06-06,C1059,Anitha,Erode,Furniture,Bookshelf,3,10758.75,5,1103.1,Cash on Delivery
+ORD0660,2025-03-27,C1074,Karthik,Madurai,Furniture,Sofa,2,54277.3,5,3385.6,Debit Card
+ORD0661,2025-10-22,C1067,Meena,Madurai,Furniture,Table Lamp,2,5606.0,0,914.59,Debit Card
+ORD0662,2025-03-17,C1139,Karthik,Salem,Clothing,Jacket,1,1703.4,15,316.46,Credit Card
+ORD0663,2025-08-23,C1002,Swetha,Erode,Clothing,Jeans,3,7940.7,10,1586.81,Net Banking
+ORD0664,2025-12-08,C1187,Anitha,Erode,Furniture,Sofa,1,49390.0,0,3640.14,Net Banking
+ORD0665,2025-03-01,C1103,Keerthi,Trichy,Clothing,T-Shirt,4,4924.0,0,519.39,Net Banking
+ORD0666,2025-11-25,C1135,Divya,Salem,Furniture,Sofa,2,38954.0,0,5513.16,Cash on Delivery
+ORD0667,2025-12-13,C1101,Divya,Bangalore,Electronics,Monitor,3,64233.6,20,6870.71,UPI
+ORD0668,2025-12-08,C1038,Swetha,Tirunelveli,Clothing,Jacket,3,13400.1,10,496.77,Debit Card
+ORD0669,2025-06-29,C1144,Priya,Trichy,Clothing,Jacket,4,17693.6,15,1354.76,Cash on Delivery
+ORD0670,2025-08-01,C1154,Priya,Madurai,Furniture,Sofa,2,64382.4,15,12588.37,Net Banking
+ORD0671,2025-06-21,C1194,Suresh,Coimbatore,Electronics,Monitor,1,18375.3,10,1937.99,Net Banking
+ORD0672,2025-08-25,C1048,Harini,Tirunelveli,Furniture,Desk,3,33338.7,15,1156.17,Debit Card
+ORD0673,2025-10-27,C1144,Swetha,Bangalore,Clothing,Jacket,2,4038.0,0,307.63,Debit Card
+ORD0674,2025-11-24,C1168,Naveen,Salem,Home Appliances,Mixer Grinder,4,13494.6,15,2451.36,Credit Card
+ORD0675,2025-01-15,C1127,Priya,Erode,Electronics,Headphones,5,18944.0,20,1783.23,Debit Card
+ORD0676,2025-11-18,C1096,Vijay,Chennai,Home Appliances,Mixer Grinder,3,9201.6,20,275.56,Debit Card
+ORD0677,2025-08-25,C1042,Arun,Salem,Furniture,Bookshelf,3,26657.1,10,1153.76,Debit Card
+ORD0678,2025-09-29,C1050,Manoj,Madurai,Electronics,Monitor,1,25289.0,5,3412.27,Debit Card
+ORD0679,2025-12-17,C1176,Swetha,Erode,Clothing,Shirt,1,1515.2,20,120.88,Credit Card
+ORD0680,2025-01-07,C1073,Meena,Bangalore,Furniture,Sofa,4,153147.6,5,9175.23,Credit Card
+ORD0681,2025-09-15,C1144,Keerthi,Coimbatore,Furniture,Desk,4,46176.0,0,3223.83,Credit Card
+ORD0682,2025-01-09,C1080,Swetha,Erode,Home Appliances,Microwave,2,22784.0,20,2481.87,Debit Card
+ORD0683,2025-03-30,C1191,Harini,Coimbatore,Clothing,T-Shirt,2,1449.7,5,231.18,Debit Card
+ORD0684,2025-03-06,C1021,Suresh,Coimbatore,Furniture,Desk,1,3661.8,15,572.14,UPI
+ORD0685,2025-04-11,C1169,Vijay,Chennai,Electronics,Laptop,4,154054.8,10,6525.43,Debit Card
+ORD0686,2025-12-08,C1032,Keerthi,Trichy,Electronics,Laptop,5,228513.0,5,35762.77,UPI
+ORD0687,2025-02-16,C1149,Meena,Erode,Furniture,Bookshelf,2,17923.2,20,1095.28,Net Banking
+ORD0688,2025-02-04,C1196,Arun,Trichy,Electronics,Monitor,2,30846.5,5,6039.2,Net Banking
+ORD0689,2025-01-03,C1130,Harini,Bangalore,Electronics,Smartphone,3,138604.8,20,7134.18,UPI
+ORD0690,2025-04-03,C1109,Divya,Trichy,Clothing,Jacket,4,9806.4,10,549.3,UPI
+ORD0691,2025-09-24,C1196,Meena,Salem,Furniture,Table Lamp,5,3330.0,0,352.25,UPI
+ORD0692,2025-07-17,C1154,Swetha,Salem,Clothing,Jacket,4,11680.0,20,1042.3,Cash on Delivery
+ORD0693,2025-04-07,C1174,Meena,Madurai,Electronics,Keyboard,1,4627.0,0,543.13,Net Banking
+ORD0694,2025-12-04,C1037,Suresh,Tirunelveli,Electronics,Laptop,5,197913.5,5,10588.52,Credit Card
+ORD0695,2025-06-23,C1104,Priya,Trichy,Furniture,Sofa,4,182552.4,10,30124.59,Net Banking
+ORD0696,2025-10-31,C1092,Anitha,Tirunelveli,Clothing,Jacket,4,21560.4,10,1294.78,Cash on Delivery
+ORD0697,2025-02-25,C1126,Anitha,Trichy,Electronics,Headphones,2,2086.0,0,365.94,UPI
+ORD0698,2025-09-13,C1098,Keerthi,Erode,Electronics,Smartphone,2,50945.6,20,6416.58,UPI
+ORD0699,2025-12-05,C1052,Rahul,Bangalore,Home Appliances,Air Cooler,4,54972.0,10,6993.23,Net Banking
+ORD0700,2025-10-07,C1111,Priya,Tirunelveli,Electronics,Laptop,4,189087.6,15,19425.83,UPI
+ORD0701,2025-01-17,C1169,Harini,Salem,Furniture,Sofa,2,85355.3,15,4298.75,Cash on Delivery
+ORD0702,2025-09-07,C1173,Anitha,Bangalore,Electronics,Monitor,4,96607.4,5,12427.23,Cash on Delivery
+ORD0703,2025-05-15,C1097,Keerthi,Erode,Home Appliances,Vacuum Cleaner,3,30750.0,0,1684.64,UPI
+ORD0704,2025-03-07,C1190,Keerthi,Chennai,Clothing,Shirt,3,4737.0,0,581.63,Debit Card
+ORD0705,2025-07-30,C1170,Divya,Trichy,Clothing,T-Shirt,2,1822.4,20,62.76,UPI
+ORD0706,2025-06-06,C1044,Arun,Erode,Electronics,Headphones,1,3888.75,15,482.47,Cash on Delivery
+ORD0707,2025-05-17,C1151,Arun,Erode,Electronics,Keyboard,4,13669.2,10,1808.87,Cash on Delivery
+ORD0708,2025-02-21,C1128,Vijay,Erode,Furniture,Bookshelf,2,14232.6,10,2843.71,Credit Card
+ORD0709,2025-09-12,C1055,Rahul,Salem,Electronics,Monitor,1,13393.6,20,1183.25,Credit Card
+ORD0710,2025-11-16,C1025,Keerthi,Erode,Electronics,Monitor,3,22089.6,20,3450.43,Cash on Delivery
+ORD0711,2025-08-07,C1020,Naveen,Salem,Furniture,Bookshelf,5,33630.25,15,4717.91,Debit Card
+ORD0712,2025-04-13,C1065,Keerthi,Bangalore,Home Appliances,Air Cooler,5,49790.0,0,7803.76,Net Banking
+ORD0713,2025-04-06,C1170,Harini,Bangalore,Home Appliances,Electric Kettle,3,7636.8,20,1259.86,Cash on Delivery
+ORD0714,2025-10-17,C1052,Meena,Bangalore,Electronics,Monitor,2,28264.4,5,4787.81,Debit Card
+ORD0715,2025-08-11,C1017,Naveen,Trichy,Home Appliances,Microwave,4,40942.8,10,5929.63,Debit Card
+ORD0716,2025-12-18,C1062,Priya,Madurai,Furniture,Table Lamp,2,1164.7,5,207.31,Debit Card
+ORD0717,2025-08-26,C1112,Suresh,Chennai,Home Appliances,Vacuum Cleaner,2,13698.0,10,797.13,Debit Card
+ORD0718,2025-05-23,C1185,Anitha,Chennai,Furniture,Office Chair,1,5737.5,10,787.6,UPI
+ORD0719,2025-07-28,C1102,Harini,Madurai,Clothing,T-Shirt,2,1166.4,20,168.97,UPI
+ORD0720,2025-09-25,C1024,Divya,Coimbatore,Clothing,Jacket,3,10792.8,20,1568.52,Credit Card
+ORD0721,2025-08-05,C1028,Karthik,Trichy,Furniture,Desk,3,28560.0,15,2020.11,Net Banking
+ORD0722,2025-01-29,C1096,Swetha,Coimbatore,Home Appliances,Vacuum Cleaner,3,35549.55,15,3847.36,Credit Card
+ORD0723,2025-05-23,C1122,Swetha,Erode,Furniture,Bookshelf,3,8028.0,20,208.07,UPI
+ORD0724,2025-12-20,C1142,Suresh,Salem,Furniture,Bookshelf,3,11997.6,20,2008.18,Cash on Delivery
+ORD0725,2025-07-18,C1066,Rahul,Coimbatore,Electronics,Keyboard,2,5768.4,5,1087.93,Credit Card
+ORD0726,2025-08-13,C1009,Rahul,Coimbatore,Clothing,Jacket,4,19240.6,15,3559.6,Debit Card
+ORD0727,2025-08-05,C1179,Rahul,Coimbatore,Electronics,Smartphone,3,94996.8,20,13676.63,Net Banking
+ORD0728,2025-06-17,C1196,Arun,Madurai,Home Appliances,Mixer Grinder,4,14456.0,0,1707.43,Debit Card
+ORD0729,2025-06-10,C1041,Divya,Madurai,Electronics,Laptop,5,339749.25,15,55124.04,Debit Card
+ORD0730,2025-08-20,C1067,Karthik,Erode,Home Appliances,Electric Kettle,3,5439.0,0,655.21,Credit Card
+ORD0731,2025-07-21,C1058,Arun,Chennai,Home Appliances,Vacuum Cleaner,5,43735.0,0,9429.34,Credit Card
+ORD0732,2025-05-15,C1103,Keerthi,Tirunelveli,Furniture,Office Chair,5,43994.5,5,2535.86,Debit Card
+ORD0733,2025-03-29,C1184,Vijay,Tirunelveli,Electronics,Laptop,4,303331.0,15,14452.84,Credit Card
+ORD0734,2025-04-08,C1192,Anitha,Tirunelveli,Clothing,Shirt,2,3197.7,5,462.11,Debit Card
+ORD0735,2025-12-13,C1047,Suresh,Madurai,Furniture,Table Lamp,1,1519.2,10,113.99,Cash on Delivery
+ORD0736,2025-05-08,C1176,Naveen,Bangalore,Clothing,Sneakers,1,1346.4,15,67.52,Debit Card
+ORD0737,2025-12-21,C1183,Suresh,Tirunelveli,Home Appliances,Electric Kettle,5,10245.0,0,678.19,UPI
+ORD0738,2025-01-27,C1121,Meena,Chennai,Clothing,Jeans,1,1630.4,20,204.36,Debit Card
+ORD0739,2025-07-22,C1144,Arun,Madurai,Clothing,Jeans,3,4068.0,20,422.19,Debit Card
+ORD0740,2025-08-28,C1082,Swetha,Tirunelveli,Furniture,Office Chair,2,18532.0,0,1913.54,Credit Card
+ORD0741,2025-09-13,C1111,Rahul,Salem,Clothing,Shirt,5,11241.0,10,1381.35,Cash on Delivery
+ORD0742,2025-03-26,C1196,Karthik,Bangalore,Clothing,Jacket,1,3179.65,5,164.63,Credit Card
+ORD0743,2025-01-19,C1042,Swetha,Bangalore,Home Appliances,Microwave,4,30260.0,15,1041.99,Debit Card
+ORD0744,2025-12-30,C1127,Priya,Madurai,Home Appliances,Air Cooler,1,12727.0,0,1077.15,Debit Card
+ORD0745,2025-04-03,C1070,Keerthi,Trichy,Furniture,Sofa,5,73080.0,20,10988.61,Credit Card
+ORD0746,2025-08-02,C1197,Anitha,Coimbatore,Electronics,Smartphone,3,36992.7,10,5579.35,UPI
+ORD0747,2025-07-21,C1028,Harini,Erode,Clothing,Sneakers,2,3472.0,0,445.25,Cash on Delivery
+ORD0748,2025-08-21,C1169,Arun,Erode,Clothing,Sneakers,1,5500.0,20,999.09,Debit Card
+ORD0749,2025-10-19,C1013,Manoj,Salem,Furniture,Desk,3,51228.0,0,9038.98,Net Banking
+ORD0750,2025-11-05,C1103,Rahul,Madurai,Home Appliances,Mixer Grinder,2,11534.0,0,616.92,Credit Card
+ORD0751,2025-03-25,C1073,Naveen,Madurai,Home Appliances,Air Cooler,1,10107.35,15,1654.44,Debit Card
+ORD0752,2025-12-17,C1171,Priya,Erode,Furniture,Bookshelf,5,26664.5,15,2752.45,Cash on Delivery
+ORD0753,2025-09-01,C1154,Suresh,Coimbatore,Clothing,Sneakers,4,14451.2,20,746.85,Cash on Delivery
+ORD0754,2025-02-17,C1088,Anitha,Trichy,Electronics,Monitor,2,37168.0,20,4721.27,Net Banking
+ORD0755,2025-02-12,C1112,Priya,Bangalore,Clothing,Jacket,3,8598.45,5,1365.72,Debit Card
+ORD0756,2025-05-08,C1146,Arun,Coimbatore,Home Appliances,Microwave,1,15411.0,0,2108.39,Cash on Delivery
+ORD0757,2025-02-18,C1065,Meena,Salem,Home Appliances,Vacuum Cleaner,5,25356.0,20,577.25,Cash on Delivery
+ORD0758,2025-04-02,C1012,Priya,Tirunelveli,Furniture,Table Lamp,3,4284.0,20,613.02,Cash on Delivery
+ORD0759,2025-11-16,C1048,Divya,Madurai,Clothing,Shirt,1,1863.2,20,119.4,UPI
+ORD0760,2025-08-11,C1102,Priya,Chennai,Electronics,Laptop,2,132562.6,15,14015.54,Cash on Delivery
+ORD0761,2025-12-03,C1159,Harini,Erode,Home Appliances,Microwave,4,47832.0,0,3408.76,UPI
+ORD0762,2025-04-08,C1179,Divya,Chennai,Electronics,Laptop,2,126407.0,5,19334.68,Cash on Delivery
+ORD0763,2025-11-17,C1078,Manoj,Bangalore,Furniture,Office Chair,2,21700.5,15,677.25,Credit Card
+ORD0764,2025-03-20,C1121,Arun,Bangalore,Home Appliances,Air Cooler,5,52131.25,5,4828.47,Cash on Delivery
+ORD0765,2025-01-27,C1027,Naveen,Tirunelveli,Clothing,T-Shirt,4,4848.0,20,588.03,Net Banking
+ORD0766,2025-05-29,C1103,Anitha,Bangalore,Electronics,Keyboard,2,1755.2,20,40.78,Net Banking
+ORD0767,2025-06-11,C1166,Suresh,Bangalore,Electronics,Headphones,1,3882.4,20,697.37,Debit Card
+ORD0768,2025-08-18,C1042,Rahul,Trichy,Home Appliances,Mixer Grinder,4,18074.4,15,1210.22,Credit Card
+ORD0769,2025-10-28,C1184,Naveen,Bangalore,Clothing,Sneakers,2,6635.1,15,1265.09,Debit Card
+ORD0770,2025-08-30,C1054,Rahul,Coimbatore,Furniture,Sofa,4,100548.0,5,7683.11,Net Banking
+ORD0771,2025-09-09,C1127,Rahul,Trichy,Electronics,Keyboard,2,1970.0,0,218.66,Debit Card
+ORD0772,2025-07-02,C1129,Arun,Coimbatore,Furniture,Desk,3,33165.0,0,5140.1,UPI
+ORD0773,2025-10-15,C1067,Meena,Erode,Furniture,Table Lamp,1,2502.9,10,468.98,Net Banking
+ORD0774,2025-11-06,C1113,Manoj,Bangalore,Electronics,Laptop,1,33551.2,20,4148.32,UPI
+ORD0775,2025-10-15,C1027,Karthik,Coimbatore,Electronics,Monitor,2,35815.0,5,5956.73,Cash on Delivery
+ORD0776,2025-09-17,C1040,Naveen,Erode,Home Appliances,Mixer Grinder,3,10884.0,0,2114.34,Cash on Delivery
+ORD0777,2025-08-01,C1122,Meena,Salem,Electronics,Smartphone,5,116115.0,0,11056.78,Cash on Delivery
+ORD0778,2025-07-04,C1193,Manoj,Tirunelveli,Furniture,Desk,2,10642.0,15,1040.57,Cash on Delivery
+ORD0779,2025-08-23,C1114,Karthik,Chennai,Clothing,T-Shirt,5,3210.0,0,345.11,Cash on Delivery
+ORD0780,2025-03-26,C1101,Manoj,Chennai,Home Appliances,Mixer Grinder,2,4756.8,20,881.68,Cash on Delivery
+ORD0781,2025-07-25,C1089,Arun,Salem,Clothing,Shirt,5,9737.5,5,1573.09,Cash on Delivery
+ORD0782,2025-11-26,C1160,Manoj,Bangalore,Furniture,Sofa,3,126850.65,5,24389.03,UPI
+ORD0783,2025-01-19,C1186,Swetha,Madurai,Clothing,Jacket,5,19593.75,5,1141.91,Net Banking
+ORD0784,2025-06-09,C1006,Arun,Salem,Clothing,Jeans,2,3814.8,15,744.96,UPI
+ORD0785,2025-01-31,C1161,Vijay,Erode,Clothing,Shirt,1,897.0,0,113.28,Net Banking
+ORD0786,2025-01-03,C1061,Manoj,Trichy,Home Appliances,Microwave,3,32135.4,10,4768.15,Net Banking
+ORD0787,2025-12-11,C1134,Swetha,Trichy,Furniture,Table Lamp,1,1473.6,20,175.36,Debit Card
+ORD0788,2025-08-21,C1183,Suresh,Tirunelveli,Electronics,Smartphone,1,18045.0,0,2205.65,Credit Card
+ORD0789,2025-09-01,C1020,Meena,Tirunelveli,Furniture,Table Lamp,5,11156.0,20,1700.18,Debit Card
+ORD0790,2025-10-27,C1113,Swetha,Bangalore,Home Appliances,Air Cooler,4,36738.4,5,4720.28,Cash on Delivery
+ORD0791,2025-12-31,C1181,Vijay,Coimbatore,Home Appliances,Electric Kettle,2,4870.5,15,160.94,Credit Card
+ORD0792,2025-10-14,C1155,Harini,Tirunelveli,Clothing,T-Shirt,1,672.3,10,88.88,UPI
+ORD0793,2025-09-25,C1096,Rahul,Erode,Furniture,Office Chair,3,25030.8,15,807.4,Credit Card
+ORD0794,2025-03-14,C1079,Rahul,Trichy,Home Appliances,Mixer Grinder,2,13008.0,0,920.91,Debit Card
+ORD0795,2025-02-04,C1124,Keerthi,Salem,Electronics,Keyboard,5,19372.5,10,3251.27,Cash on Delivery
+ORD0796,2025-11-07,C1130,Naveen,Bangalore,Furniture,Desk,4,50765.4,15,2681.79,Debit Card
+ORD0797,2025-02-15,C1060,Suresh,Erode,Home Appliances,Air Cooler,5,32937.5,15,5026.43,UPI
+ORD0798,2025-03-26,C1162,Manoj,Salem,Electronics,Monitor,5,140700.0,0,22436.78,UPI
+ORD0799,2025-04-09,C1134,Divya,Bangalore,Electronics,Monitor,5,38055.0,0,6161.23,Net Banking
+ORD0800,2025-04-03,C1053,Divya,Bangalore,Electronics,Headphones,1,5928.0,20,730.12,Cash on Delivery
+ORD0801,2025-10-29,C1006,Meena,Tirunelveli,Electronics,Keyboard,2,7998.0,0,1568.73,Debit Card
+ORD0802,2025-07-15,C1030,Priya,Madurai,Clothing,T-Shirt,3,2262.9,5,194.48,UPI
+ORD0803,2025-03-20,C1174,Karthik,Chennai,Clothing,Jacket,5,21204.0,5,999.11,UPI
+ORD0804,2025-06-02,C1082,Karthik,Tirunelveli,Home Appliances,Mixer Grinder,3,11760.6,15,2205.91,UPI
+ORD0805,2025-01-27,C1193,Keerthi,Trichy,Furniture,Desk,4,39465.6,20,3372.66,UPI
+ORD0806,2025-05-18,C1119,Vijay,Tirunelveli,Electronics,Headphones,1,4766.0,0,568.46,Credit Card
+ORD0807,2025-01-10,C1151,Naveen,Coimbatore,Clothing,Sneakers,2,11483.6,5,1082.72,Cash on Delivery
+ORD0808,2025-08-17,C1053,Manoj,Madurai,Electronics,Monitor,3,70420.65,5,12354.88,Net Banking
+ORD0809,2025-08-05,C1001,Harini,Bangalore,Home Appliances,Mixer Grinder,5,23127.75,5,985.06,Cash on Delivery
+ORD0810,2025-05-20,C1090,Harini,Trichy,Clothing,Jacket,5,26910.0,10,1149.93,Net Banking
+ORD0811,2025-10-16,C1023,Suresh,Coimbatore,Electronics,Headphones,2,10782.4,20,2046.5,Cash on Delivery
+ORD0812,2025-04-18,C1163,Rahul,Bangalore,Clothing,Shirt,3,3518.1,10,327.45,Cash on Delivery
+ORD0813,2025-11-03,C1178,Karthik,Chennai,Clothing,T-Shirt,5,7375.0,0,1498.94,Credit Card
+ORD0814,2025-07-31,C1138,Priya,Coimbatore,Home Appliances,Air Cooler,5,31904.75,15,4523.51,Debit Card
+ORD0815,2025-07-12,C1046,Harini,Chennai,Clothing,Jacket,1,5031.0,10,976.83,Cash on Delivery
+ORD0816,2025-01-05,C1195,Rahul,Erode,Furniture,Office Chair,2,10358.4,20,1308.16,Credit Card
+ORD0817,2025-04-30,C1010,Rahul,Bangalore,Home Appliances,Microwave,5,52125.0,0,4343.82,Cash on Delivery
+ORD0818,2025-02-26,C1129,Anitha,Madurai,Clothing,Sneakers,5,12348.0,20,1657.96,Net Banking
+ORD0819,2025-10-17,C1151,Karthik,Coimbatore,Furniture,Office Chair,2,14804.8,20,2449.18,Net Banking
+ORD0820,2025-05-21,C1178,Naveen,Salem,Furniture,Office Chair,5,62185.0,0,13024.11,UPI
+ORD0821,2025-06-15,C1071,Priya,Bangalore,Home Appliances,Air Cooler,4,41350.4,20,6162.6,Credit Card
+ORD0822,2025-01-25,C1137,Anitha,Erode,Clothing,Jacket,1,4759.5,5,473.09,Net Banking
+ORD0823,2025-01-13,C1020,Divya,Trichy,Furniture,Table Lamp,2,3326.4,10,151.96,UPI
+ORD0824,2025-01-15,C1007,Keerthi,Erode,Home Appliances,Air Cooler,3,33147.0,0,4325.95,Debit Card
+ORD0825,2025-01-28,C1061,Priya,Bangalore,Clothing,Sneakers,1,5628.7,15,708.76,UPI
+ORD0826,2025-02-01,C1081,Harini,Coimbatore,Electronics,Keyboard,2,1881.9,15,69.28,Net Banking
+ORD0827,2025-11-17,C1027,Naveen,Chennai,Home Appliances,Mixer Grinder,5,13171.5,10,2364.13,Cash on Delivery
+ORD0828,2025-02-19,C1154,Manoj,Chennai,Home Appliances,Electric Kettle,4,8744.8,15,1422.59,Net Banking
+ORD0829,2025-11-14,C1167,Naveen,Chennai,Electronics,Headphones,4,18133.2,10,2446.68,UPI
+ORD0830,2025-02-22,C1183,Priya,Trichy,Electronics,Monitor,5,44512.0,20,2829.57,Cash on Delivery
+ORD0831,2025-09-04,C1063,Karthik,Chennai,Home Appliances,Electric Kettle,1,1369.8,10,184.06,Net Banking
+ORD0832,2025-11-30,C1150,Vijay,Madurai,Clothing,Shirt,2,3169.8,10,436.06,Debit Card
+ORD0833,2025-07-08,C1151,Naveen,Madurai,Electronics,Monitor,1,11822.4,20,1882.85,Net Banking
+ORD0834,2025-01-28,C1051,Divya,Trichy,Home Appliances,Microwave,1,11965.25,5,1867.01,Cash on Delivery
+ORD0835,2025-11-04,C1145,Meena,Salem,Clothing,Sneakers,4,15929.6,5,960.94,UPI
+ORD0836,2025-09-11,C1164,Divya,Trichy,Furniture,Office Chair,4,57843.6,5,4808.73,Debit Card
+ORD0837,2025-07-12,C1048,Harini,Chennai,Furniture,Table Lamp,3,1620.0,0,179.56,Net Banking
+ORD0838,2025-02-28,C1113,Divya,Erode,Furniture,Bookshelf,1,3311.7,5,252.12,Credit Card
+ORD0839,2025-04-23,C1087,Harini,Trichy,Clothing,Jeans,2,3604.0,0,288.08,Debit Card
+ORD0840,2025-02-21,C1098,Naveen,Coimbatore,Electronics,Smartphone,3,69600.6,10,7833.87,Debit Card
+ORD0841,2025-07-10,C1160,Suresh,Coimbatore,Furniture,Sofa,1,26091.75,5,4634.75,Credit Card
+ORD0842,2025-09-30,C1082,Keerthi,Tirunelveli,Home Appliances,Microwave,2,12409.6,20,1487.23,Net Banking
+ORD0843,2025-05-31,C1064,Arun,Salem,Furniture,Bookshelf,2,18123.2,20,3091.67,Credit Card
+ORD0844,2025-02-11,C1017,Karthik,Tirunelveli,Home Appliances,Vacuum Cleaner,5,47306.75,15,5473.94,Credit Card
+ORD0845,2025-06-14,C1178,Anitha,Bangalore,Clothing,Sneakers,4,11833.6,20,1043.26,Net Banking
+ORD0846,2025-11-29,C1057,Divya,Bangalore,Electronics,Smartphone,2,72095.5,5,6814.45,Cash on Delivery
+ORD0847,2025-10-20,C1066,Vijay,Coimbatore,Furniture,Bookshelf,2,7876.8,10,870.91,Debit Card
+ORD0848,2025-04-28,C1132,Keerthi,Erode,Electronics,Keyboard,4,14603.0,15,1475.28,Debit Card
+ORD0849,2025-09-12,C1098,Arun,Madurai,Clothing,Shirt,4,4600.8,10,665.78,Debit Card
+ORD0850,2025-02-12,C1132,Vijay,Coimbatore,Clothing,Sneakers,3,10095.0,0,708.26,Debit Card
+ORD0851,2025-01-20,C1051,Naveen,Erode,Furniture,Bookshelf,3,21489.3,10,1448.58,Net Banking
+ORD0852,2025-03-12,C1198,Rahul,Salem,Clothing,T-Shirt,3,3383.85,15,565.84,UPI
+ORD0853,2025-08-30,C1059,Divya,Trichy,Furniture,Table Lamp,4,4662.4,20,558.51,Net Banking
+ORD0854,2025-08-28,C1022,Meena,Trichy,Home Appliances,Microwave,4,52603.4,5,6158.58,Net Banking
+ORD0855,2025-01-16,C1148,Harini,Madurai,Clothing,Jeans,3,2649.45,15,437.87,Debit Card
+ORD0856,2025-06-23,C1109,Naveen,Tirunelveli,Furniture,Table Lamp,5,7771.5,10,1047.46,Net Banking
+ORD0857,2025-01-17,C1085,Keerthi,Tirunelveli,Furniture,Desk,4,24973.0,15,957.23,Cash on Delivery
+ORD0858,2025-04-07,C1085,Keerthi,Bangalore,Home Appliances,Mixer Grinder,3,9299.55,5,560.14,Net Banking
+ORD0859,2025-04-01,C1126,Arun,Madurai,Electronics,Monitor,2,15770.9,15,1194.63,Credit Card
+ORD0860,2025-05-30,C1015,Meena,Chennai,Electronics,Keyboard,2,5569.2,15,523.44,UPI
+ORD0861,2025-03-08,C1191,Priya,Tirunelveli,Home Appliances,Air Cooler,2,17343.2,5,1650.36,Cash on Delivery
+ORD0862,2025-03-23,C1052,Vijay,Bangalore,Clothing,Sneakers,3,9456.0,0,2065.99,Cash on Delivery
+ORD0863,2025-02-02,C1064,Vijay,Erode,Home Appliances,Vacuum Cleaner,5,55432.75,15,5884.64,UPI
+ORD0864,2025-02-16,C1089,Swetha,Salem,Clothing,Jacket,4,10995.6,15,768.07,Net Banking
+ORD0865,2025-08-10,C1169,Karthik,Coimbatore,Home Appliances,Air Cooler,4,73784.0,0,6695.76,Credit Card
+ORD0866,2025-05-21,C1179,Swetha,Trichy,Clothing,T-Shirt,4,4294.4,20,174.39,Debit Card
+ORD0867,2025-02-09,C1197,Manoj,Erode,Electronics,Monitor,4,82748.8,5,7072.57,Net Banking
+ORD0868,2025-01-23,C1019,Naveen,Bangalore,Home Appliances,Mixer Grinder,4,18071.0,15,3125.95,Cash on Delivery
+ORD0869,2025-01-20,C1030,Swetha,Madurai,Electronics,Headphones,3,16042.05,15,1763.17,UPI
+ORD0870,2025-02-12,C1036,Anitha,Salem,Furniture,Table Lamp,2,2396.0,0,367.04,Credit Card
+ORD0871,2025-05-31,C1190,Suresh,Madurai,Electronics,Monitor,1,29000.0,0,4789.5,Credit Card
+ORD0872,2025-08-14,C1056,Swetha,Chennai,Clothing,Jeans,5,8011.25,15,1169.21,Net Banking
+ORD0873,2025-11-25,C1177,Rahul,Bangalore,Electronics,Keyboard,1,638.0,0,115.68,Credit Card
+ORD0874,2025-05-08,C1052,Priya,Chennai,Clothing,Jeans,4,4456.0,0,478.17,Credit Card
+ORD0875,2025-12-15,C1025,Manoj,Madurai,Electronics,Smartphone,2,25302.8,15,2900.33,Debit Card
+ORD0876,2025-06-15,C1054,Vijay,Tirunelveli,Furniture,Sofa,4,98484.6,5,7764.78,Debit Card
+ORD0877,2025-06-15,C1103,Naveen,Erode,Furniture,Office Chair,1,10807.2,5,1302.18,UPI
+ORD0878,2025-12-03,C1095,Arun,Coimbatore,Clothing,Sneakers,2,8760.6,10,1449.73,Cash on Delivery
+ORD0879,2025-02-22,C1025,Keerthi,Erode,Furniture,Bookshelf,4,18637.2,10,1207.81,Debit Card
+ORD0880,2025-12-08,C1086,Arun,Bangalore,Home Appliances,Mixer Grinder,4,25406.8,5,3254.14,UPI
+ORD0881,2025-04-30,C1195,Priya,Salem,Electronics,Monitor,2,39977.9,5,5911.14,UPI
+ORD0882,2025-03-12,C1076,Divya,Madurai,Clothing,Jacket,4,13896.0,0,1257.18,Net Banking
+ORD0883,2025-08-16,C1072,Meena,Chennai,Clothing,Jeans,5,12145.5,10,1974.78,Credit Card
+ORD0884,2025-06-19,C1053,Vijay,Chennai,Clothing,Jeans,2,3057.6,20,514.78,Net Banking
+ORD0885,2025-06-14,C1162,Arun,Coimbatore,Furniture,Table Lamp,4,2986.8,5,153.4,Credit Card
+ORD0886,2025-04-15,C1045,Keerthi,Trichy,Furniture,Office Chair,2,26626.0,0,3260.64,Cash on Delivery
+ORD0887,2025-06-09,C1063,Suresh,Madurai,Furniture,Desk,5,36355.5,10,3036.05,Cash on Delivery
+ORD0888,2025-11-22,C1124,Priya,Erode,Furniture,Bookshelf,4,34914.4,5,4277.76,Cash on Delivery
+ORD0889,2025-09-16,C1124,Arun,Tirunelveli,Home Appliances,Electric Kettle,4,4824.0,10,656.94,Credit Card
+ORD0890,2025-10-11,C1098,Anitha,Salem,Furniture,Bookshelf,4,25976.0,15,3196.71,Cash on Delivery
+ORD0891,2025-02-06,C1184,Anitha,Trichy,Clothing,Jeans,2,3552.0,0,185.35,Net Banking
+ORD0892,2025-07-11,C1107,Suresh,Erode,Home Appliances,Air Cooler,4,54072.0,10,7785.19,Net Banking
+ORD0893,2025-02-06,C1032,Suresh,Madurai,Home Appliances,Mixer Grinder,2,10933.2,10,1816.18,Debit Card
+ORD0894,2025-09-18,C1179,Arun,Tirunelveli,Home Appliances,Microwave,4,41963.4,5,5191.43,Debit Card
+ORD0895,2025-11-20,C1067,Keerthi,Bangalore,Electronics,Smartphone,2,54463.5,5,7889.88,Credit Card
+ORD0896,2025-01-07,C1165,Swetha,Tirunelveli,Electronics,Laptop,4,260070.4,20,48270.3,UPI
+ORD0897,2025-09-23,C1043,Harini,Tirunelveli,Furniture,Table Lamp,3,4168.8,20,769.17,Cash on Delivery
+ORD0898,2025-10-28,C1193,Swetha,Coimbatore,Clothing,Jacket,1,4389.95,5,387.34,Credit Card
+ORD0899,2025-07-23,C1044,Harini,Bangalore,Clothing,T-Shirt,1,698.0,0,126.71,Cash on Delivery
+ORD0900,2025-09-26,C1188,Suresh,Madurai,Home Appliances,Microwave,2,24962.2,5,4048.57,Credit Card
+ORD0901,2025-09-07,C1029,Anitha,Trichy,Furniture,Sofa,2,62336.0,0,11063.75,Credit Card
+ORD0902,2025-05-13,C1161,Keerthi,Coimbatore,Home Appliances,Air Cooler,2,14952.6,10,741.2,UPI
+ORD0903,2025-05-22,C1008,Keerthi,Trichy,Electronics,Headphones,4,19096.0,0,985.66,Debit Card
+ORD0904,2025-01-04,C1055,Vijay,Chennai,Electronics,Laptop,4,238454.4,20,44775.17,Debit Card
+ORD0905,2025-09-06,C1155,Suresh,Erode,Home Appliances,Microwave,3,34074.0,10,5924.24,Debit Card
+ORD0906,2025-12-07,C1157,Arun,Erode,Home Appliances,Air Cooler,3,25923.0,0,3309.75,Cash on Delivery
+ORD0907,2025-03-13,C1032,Harini,Salem,Electronics,Monitor,2,32422.4,15,4299.85,Cash on Delivery
+ORD0908,2025-09-21,C1001,Naveen,Erode,Home Appliances,Electric Kettle,1,2475.0,0,531.71,Debit Card
+ORD0909,2025-12-14,C1156,Anitha,Tirunelveli,Home Appliances,Electric Kettle,5,5998.5,10,646.31,Cash on Delivery
+ORD0910,2025-12-04,C1076,Keerthi,Trichy,Electronics,Keyboard,2,7776.0,20,1193.04,Net Banking
+ORD0911,2025-01-17,C1023,Rahul,Bangalore,Furniture,Table Lamp,2,4654.0,0,614.18,Net Banking
+ORD0912,2025-05-04,C1044,Manoj,Coimbatore,Furniture,Desk,1,11125.0,0,859.29,Debit Card
+ORD0913,2025-07-16,C1185,Rahul,Bangalore,Clothing,Jeans,1,1244.8,20,158.96,Cash on Delivery
+ORD0914,2025-02-16,C1148,Manoj,Coimbatore,Clothing,Jeans,3,6487.2,15,899.56,Net Banking
+ORD0915,2025-08-12,C1067,Priya,Salem,Furniture,Desk,1,5824.0,0,628.06,Net Banking
+ORD0916,2025-04-07,C1095,Karthik,Erode,Electronics,Monitor,4,103616.0,0,10655.44,Net Banking
+ORD0917,2025-10-02,C1109,Meena,Erode,Furniture,Table Lamp,2,4204.8,20,506.39,UPI
+ORD0918,2025-07-22,C1118,Meena,Madurai,Electronics,Monitor,3,36141.15,15,5171.68,Credit Card
+ORD0919,2025-11-04,C1192,Naveen,Chennai,Clothing,Jeans,5,10399.5,10,1252.14,UPI
+ORD0920,2025-05-21,C1127,Rahul,Tirunelveli,Home Appliances,Electric Kettle,1,2245.8,5,411.52,Credit Card
+ORD0921,2025-04-26,C1125,Swetha,Tirunelveli,Electronics,Smartphone,3,186424.2,5,39331.92,Net Banking
+ORD0922,2025-07-20,C1174,Anitha,Erode,Clothing,Jacket,4,20012.0,0,2796.35,Debit Card
+ORD0923,2025-05-25,C1101,Priya,Madurai,Furniture,Sofa,3,168108.0,0,32691.57,Debit Card
+ORD0924,2025-08-23,C1036,Anitha,Bangalore,Furniture,Sofa,3,78349.35,5,6235.29,Credit Card
+ORD0925,2025-11-30,C1186,Harini,Coimbatore,Electronics,Headphones,2,6602.8,15,944.24,Credit Card
+ORD0926,2025-01-29,C1122,Karthik,Chennai,Electronics,Headphones,1,4519.8,10,614.14,Credit Card
+ORD0927,2025-11-18,C1009,Priya,Trichy,Home Appliances,Electric Kettle,4,10803.6,10,1641.69,Credit Card
+ORD0928,2025-12-01,C1200,Anitha,Tirunelveli,Home Appliances,Mixer Grinder,3,16594.2,10,613.53,UPI
+ORD0929,2025-02-12,C1165,Naveen,Trichy,Electronics,Keyboard,1,4075.2,10,623.23,UPI
+ORD0930,2025-10-31,C1124,Naveen,Tirunelveli,Furniture,Table Lamp,3,8094.0,5,480.82,UPI
+ORD0931,2025-10-03,C1180,Arun,Tirunelveli,Furniture,Table Lamp,5,10788.0,20,1111.77,Net Banking
+ORD0932,2025-10-27,C1169,Priya,Madurai,Electronics,Smartphone,5,273414.75,5,11867.59,Cash on Delivery
+ORD0933,2025-06-10,C1033,Keerthi,Trichy,Electronics,Laptop,2,65208.0,20,4150.44,UPI
+ORD0934,2025-02-13,C1077,Meena,Madurai,Electronics,Monitor,4,114264.0,0,10537.12,UPI
+ORD0935,2025-09-23,C1114,Karthik,Bangalore,Clothing,Sneakers,3,15608.7,10,2154.77,Net Banking
+ORD0936,2025-04-18,C1061,Arun,Trichy,Electronics,Laptop,2,103817.9,5,21309.86,Net Banking
+ORD0937,2025-10-10,C1092,Rahul,Madurai,Furniture,Sofa,5,228285.0,0,32753.02,Debit Card
+ORD0938,2025-07-15,C1117,Priya,Salem,Furniture,Table Lamp,4,3475.2,20,189.88,Debit Card
+ORD0939,2025-11-21,C1145,Naveen,Madurai,Furniture,Bookshelf,4,19850.4,10,4043.85,Cash on Delivery
+ORD0940,2025-07-14,C1064,Priya,Salem,Electronics,Monitor,1,24415.0,0,4059.64,Cash on Delivery
+ORD0941,2025-02-03,C1093,Meena,Salem,Clothing,T-Shirt,2,1731.6,10,63.51,Cash on Delivery
+ORD0942,2025-04-24,C1032,Karthik,Salem,Home Appliances,Mixer Grinder,5,32550.0,0,4554.5,Net Banking
+ORD0943,2025-05-25,C1026,Arun,Madurai,Clothing,Sneakers,3,13369.35,5,1352.7,Net Banking
+ORD0944,2025-10-10,C1152,Karthik,Salem,Home Appliances,Air Cooler,1,14600.0,20,2062.22,Credit Card
+ORD0945,2025-03-15,C1189,Rahul,Chennai,Home Appliances,Vacuum Cleaner,3,21794.4,20,1985.5,Cash on Delivery
+ORD0946,2025-04-04,C1120,Vijay,Salem,Home Appliances,Microwave,3,33619.2,20,6054.32,Credit Card
+ORD0947,2025-06-06,C1105,Manoj,Erode,Electronics,Headphones,1,5999.0,0,378.16,Credit Card
+ORD0948,2025-02-17,C1015,Priya,Salem,Furniture,Sofa,5,251495.0,0,53711.35,Cash on Delivery
+ORD0949,2025-12-13,C1128,Vijay,Coimbatore,Furniture,Table Lamp,4,1779.2,20,93.11,UPI
+ORD0950,2025-08-06,C1190,Naveen,Chennai,Clothing,Jeans,5,13475.75,5,2117.97,Net Banking
+ORD0951,2025-04-26,C1094,Harini,Madurai,Furniture,Office Chair,5,53940.0,0,6573.28,Cash on Delivery
+ORD0952,2025-03-29,C1087,Naveen,Trichy,Clothing,T-Shirt,5,3334.5,10,286.3,Debit Card
+ORD0953,2025-05-16,C1189,Naveen,Tirunelveli,Furniture,Office Chair,2,15990.4,20,2564.44,UPI
+ORD0954,2025-08-26,C1092,Arun,Bangalore,Home Appliances,Mixer Grinder,3,13348.8,10,710.39,Debit Card
+ORD0955,2025-04-06,C1003,Priya,Tirunelveli,Home Appliances,Microwave,4,40944.0,0,5729.97,Credit Card
+ORD0956,2025-07-30,C1002,Karthik,Salem,Electronics,Keyboard,2,7573.5,15,690.19,Debit Card
+ORD0957,2025-08-08,C1069,Priya,Bangalore,Furniture,Sofa,4,108699.0,5,11156.37,Cash on Delivery
+ORD0958,2025-01-03,C1029,Divya,Salem,Clothing,Jeans,1,1314.95,15,130.28,Debit Card
+ORD0959,2025-01-17,C1123,Naveen,Salem,Furniture,Desk,1,9264.15,15,1121.16,Credit Card
+ORD0960,2025-06-16,C1186,Swetha,Tirunelveli,Home Appliances,Vacuum Cleaner,2,13594.0,0,2511.64,Credit Card
+ORD0961,2025-03-21,C1004,Manoj,Trichy,Clothing,Sneakers,1,3656.7,15,707.55,UPI
+ORD0962,2025-08-11,C1073,Anitha,Coimbatore,Home Appliances,Microwave,4,35388.8,20,1625.2,Net Banking
+ORD0963,2025-04-06,C1197,Priya,Salem,Furniture,Bookshelf,2,19058.9,5,2345.42,UPI
+ORD0964,2025-12-25,C1152,Naveen,Madurai,Furniture,Desk,2,11348.7,5,1256.51,Debit Card
+ORD0965,2025-04-09,C1005,Keerthi,Trichy,Furniture,Table Lamp,1,601.8,15,58.22,Debit Card
+ORD0966,2025-12-25,C1087,Suresh,Bangalore,Furniture,Desk,1,10500.05,15,1438.07,Debit Card
+ORD0967,2025-02-26,C1072,Meena,Tirunelveli,Clothing,Shirt,2,2910.0,0,235.41,UPI
+ORD0968,2025-01-27,C1074,Anitha,Salem,Clothing,Jeans,5,6001.0,15,353.6,Cash on Delivery
+ORD0969,2025-07-06,C1029,Priya,Chennai,Clothing,Shirt,5,11290.75,5,1115.59,Debit Card
+ORD0970,2025-10-29,C1167,Rahul,Trichy,Clothing,Jeans,5,12865.0,0,2583.59,Credit Card
+ORD0971,2025-11-19,C1151,Naveen,Trichy,Electronics,Laptop,2,138006.0,15,25508.35,UPI
+ORD0972,2025-10-07,C1186,Anitha,Trichy,Clothing,Shirt,5,10811.0,5,539.99,Credit Card
+ORD0973,2025-08-03,C1089,Meena,Bangalore,Clothing,Sneakers,1,5072.0,0,669.91,Net Banking
+ORD0974,2025-09-15,C1154,Rahul,Madurai,Electronics,Smartphone,3,35947.2,20,1090.45,Credit Card
+ORD0975,2025-07-23,C1132,Priya,Madurai,Home Appliances,Vacuum Cleaner,4,45369.6,15,5586.12,Cash on Delivery
+ORD0976,2025-07-25,C1048,Arun,Madurai,Clothing,Jeans,5,7568.0,20,1047.73,Net Banking
+ORD0977,2025-08-22,C1057,Rahul,Salem,Clothing,Shirt,5,4954.25,5,399.15,Net Banking
+ORD0978,2025-05-02,C1164,Karthik,Salem,Clothing,T-Shirt,2,2106.0,0,335.3,Credit Card
+ORD0979,2025-04-18,C1167,Meena,Erode,Electronics,Laptop,3,97092.0,20,6299.96,Credit Card
+ORD0980,2025-07-29,C1015,Naveen,Chennai,Clothing,Shirt,3,3372.3,10,219.35,UPI
+ORD0981,2025-10-03,C1168,Rahul,Trichy,Electronics,Keyboard,4,8665.2,10,699.24,Net Banking
+ORD0982,2025-11-19,C1115,Divya,Tirunelveli,Home Appliances,Electric Kettle,3,4097.85,15,177.96,Credit Card
+ORD0983,2025-08-24,C1049,Keerthi,Bangalore,Furniture,Desk,2,26296.2,10,1014.46,Credit Card
+ORD0984,2025-04-01,C1049,Priya,Madurai,Home Appliances,Vacuum Cleaner,1,11386.7,5,1364.74,Cash on Delivery
+ORD0985,2025-02-21,C1155,Priya,Tirunelveli,Furniture,Office Chair,4,21356.0,0,4068.65,UPI
+ORD0986,2025-03-09,C1069,Karthik,Chennai,Furniture,Office Chair,1,17970.0,0,2555.39,Debit Card
+ORD0987,2025-12-29,C1036,Anitha,Bangalore,Electronics,Smartphone,2,57859.2,10,6735.65,Credit Card
+ORD0988,2025-01-29,C1032,Arun,Chennai,Clothing,Sneakers,1,5364.9,10,281.32,Cash on Delivery
+ORD0989,2025-03-14,C1007,Divya,Tirunelveli,Electronics,Smartphone,4,77968.8,10,11415.57,Credit Card
+ORD0990,2025-12-17,C1126,Karthik,Coimbatore,Home Appliances,Mixer Grinder,2,5999.4,10,574.4,Net Banking
+ORD0991,2025-06-20,C1022,Arun,Madurai,Electronics,Headphones,2,6897.6,20,530.59,Credit Card
+ORD0992,2025-12-14,C1171,Naveen,Salem,Home Appliances,Electric Kettle,5,9787.5,10,1799.12,Debit Card
+ORD0993,2025-09-13,C1183,Manoj,Coimbatore,Clothing,Shirt,1,1048.8,5,101.67,Cash on Delivery
+ORD0994,2025-08-17,C1029,Keerthi,Tirunelveli,Home Appliances,Mixer Grinder,3,11055.0,0,1159.88,Credit Card
+ORD0995,2025-04-04,C1082,Anitha,Tirunelveli,Home Appliances,Microwave,4,44102.4,20,6831.25,Debit Card
+ORD0996,2025-03-12,C1108,Vijay,Bangalore,Furniture,Table Lamp,5,11415.5,15,1347.26,Credit Card
+ORD0997,2025-07-16,C1184,Suresh,Trichy,Electronics,Monitor,1,13235.4,10,469.69,UPI
+ORD0998,2025-07-05,C1029,Arun,Erode,Home Appliances,Electric Kettle,3,4239.0,10,480.13,Net Banking
+ORD0999,2025-08-04,C1058,Arun,Madurai,Furniture,Desk,1,18773.9,5,2002.58,UPI
+ORD1000,2025-12-23,C1014,Swetha,Coimbatore,Home Appliances,Microwave,5,34884.0,15,5925.55,Credit Card
